@@ -1,0 +1,11 @@
+# Python stuff
+__pycache__/*
+pelican/*
+
+# Pelican stuff
+*.pid
+cache/*
+output/*
+plugins/*
+
+# Binary stuff
