@@ -12,10 +12,9 @@ of the role of the US in their countries and their own governments’
 performance.
 
 The survey was based on a database over 1,103 NGOs assembled between 2012 and
-2014. received responses from 480 unique organizations, yielding a
-participation rate of 43.5 percent. Because NGOs often work in multiple
+2014. We received responses from 480 unique organizations, yielding a
+participation rate of 43.5%. Because NGOs often work in multiple
 countries, we allowed respondents to answer a series of country-specific
-questions for up to five different countries, resulting in 561 country-
-organization responses.
+questions for up to five different countries, resulting in 561 country-organization responses.
 
 ![Map of countries where NGOs work](/files/images/survey_work_map.png){.img-fluid}
