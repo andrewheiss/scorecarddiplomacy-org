@@ -77,6 +77,13 @@ CASES = [('Case studies', '/case-studies/'),
          ('United Arab Emirates', '/case-studies/united-arab-emirates/'),
          ('Zimbabwe', '/case-studies/zimbabwe/')]
 
+SURVEY_MENU = [('Survey', '/survey/'),
+               ('Report for NGOs', '/survey/ngo-report/'),
+               ('Raw summary', '/survey/summary-raw/'),
+               ('Survey invitation', '/survey/invitation/'),
+               ('Original survey', '/survey/original-survey/'),
+               ('Survey data', '/survey/data/')]
+
 DEFAULT_PAGINATION = False
 
 PLUGIN_PATHS = ['plugins']

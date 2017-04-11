@@ -8,4 +8,9 @@ cache/*
 output/*
 plugins/*
 
+# Dependencies
+theme/static/ViewerJS/*
+
 # Binary stuff
+content/files/data/*
+content/files/pdfs/*
