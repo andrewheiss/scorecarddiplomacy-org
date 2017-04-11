@@ -82,7 +82,7 @@ Please answer the following questions about your organization's current human tr
 
 ## Country-specific questions
 
-We will now ask you a series of questions related to {the country your organization works in the most}[^first_time] / {other countries your organization has worked in}[^other_times].
+We will now ask you a series of questions related to `{the country your organization works in the most}`[^first_time] / `{other countries your organization has worked in}`[^other_times].
 
 Please answer the following questions about your organization's current human trafficking efforts. If your organization no longer works with human trafficking issues, please answer the questions about any of your organization's efforts in trafficking issues over the past 10 years.
 
@@ -95,7 +95,7 @@ Please answer the following questions about your organization's current human tr
 
 ---
 
-**Q3.2** Where {else}[^other_times] has your organization done advocacy work {the most}[^first_time]?
+**Q3.2** Where `{else}`[^other_times] has your organization done advocacy work `{the most}`[^first_time]?
 
 *Drop-down list of countries*
 
