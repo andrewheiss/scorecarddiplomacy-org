@@ -97,7 +97,7 @@ MARKDOWN = {
         'markdown.extensions.meta': {},
         'markdown.extensions.toc': {},
         'markdown.extensions.codehilite': {'css_class': 'codehilite'},
-        'markdown.extensions.headerid': {'level': 2}
+        'markdown.extensions.headerid': {'level': 1}
     },
     'output_format': 'html5',
 }

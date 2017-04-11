@@ -31,13 +31,22 @@
 
     <style type="text/css">
         body {
-          min-height: 2000px;
           padding-top: 70px;
         }
 
-        /* padding-bottom is the percent value of height/width. So for an 8.5x11 PDF, it is 77.27% */
+        /* padding-bottom is the percent value of height/width. So for an
+        8.5x11 PDF, it is 129.44%. But even then, it's a little too big. 100%
+        works great. */
         .embed-responsive-letter {
-          padding-bottom: 77.27%;
+          padding-bottom: 100%;
+        }
+
+        /* The fixed navbar along the top covers up anchors when jumping around
+        the page. This manually adds negative margin and positive padding to
+        fix that. */
+        .case h2, .case h3, .survey h2 {
+          padding-top: 60px;
+          margin-top: -50px;
         }
     </style>
 
