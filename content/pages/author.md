@@ -6,10 +6,10 @@ Template: page
 Slug: author
 
 
-Bio and photo here.
+Judith G. Kelley is the Kevin D. Gorter Professor of Public Policy and Political Science at Duke University, North Carolina, as well as the Senior Associate Dean of the Sanford School of Public Policy. A graduate of Stanford University, California and the Kennedy School of Government, Harvard University, Massachusetts, at Duke University she writes on how the international community can promote democracy and human rights. Her last book, [*Monitoring Democracy: When International Election Monitoring Works and Why it Often Fails*](http://press.princeton.edu/titles/9748.html) (2012) won the Chadwick F. Alger Prize for best book about international organization and multilateralism.
 
 
-## Special thanks
+### Special thanks
 
 Special thanks goes to my research assistant Andrew Heiss for his extensive assistance in all aspects of this book. Andrew was nothing short of a wizard. He administered the global NGO survey and helped me continue my research. He kept me sane. He also deserves credit for all the fine figures throughout this book.
 
