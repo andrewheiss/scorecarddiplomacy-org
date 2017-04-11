@@ -60,6 +60,23 @@ MENUITEMS = [('Summary', '/summary/'),
              ('Global survey', '/survey/'),
              ('Buy', '/buy/')]
 
+CASES = [('Case studies', '/case-studies/'),
+         ('Argentina', '/case-studies/argentina/'),
+         ('Armenia', '/case-studies/armenia/'),
+         ('Chad', '/case-studies/chad/'),
+         ('Ecuador', '/case-studies/ecuador/'),
+         ('Honduras', '/case-studies/honduras/'),
+         ('Indonesia', '/case-studies/indonesia/'),
+         ('Israel', '/case-studies/israel/'),
+         ('Japan', '/case-studies/japan/'),
+         ('Kazakhstan', '/case-studies/kazakhstan/'),
+         ('Malaysia', '/case-studies/malaysia/'),
+         ('Mozambique', '/case-studies/mozambique/'),
+         ('Nigeria', '/case-studies/nigeria/'),
+         ('Oman', '/case-studies/oman/'),
+         ('United Arab Emirates', '/case-studies/united-arab-emirates/'),
+         ('Zimbabwe', '/case-studies/zimbabwe/')]
+
 DEFAULT_PAGINATION = False
 
 PLUGIN_PATHS = ['plugins']
@@ -71,6 +88,7 @@ MARKDOWN = {
         'markdown.extensions.extra': {},
         'markdown.extensions.footnotes': {},
         'markdown.extensions.meta': {},
+        'markdown.extensions.toc': {},
         'markdown.extensions.codehilite': {'css_class': 'codehilite'},
         'markdown.extensions.headerid': {'level': 2}
     },
