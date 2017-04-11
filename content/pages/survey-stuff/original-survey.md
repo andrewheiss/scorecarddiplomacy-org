@@ -15,6 +15,8 @@ If you have any questions, you will be given contact information for Prof. Kelle
 
 Please feel free to respond in your own language when possible.
 
+[TOC]
+
 ---
 
 ## Background questions
