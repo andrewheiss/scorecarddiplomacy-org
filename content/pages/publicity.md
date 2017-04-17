@@ -21,6 +21,10 @@ Slug: publicity
 > Diplomacy* is a major work on norms and impactful statecraft, important far
 > beyond its fascinating case study on combating the sex and labor slavery of
 > our time.
+> 
+> —Mark P. Lagon, Ph.D., Centennial Fellow, Walsh School of Foreign Service,
+> Georgetown University, and former U.S. Ambassador-At-Large to Combat
+> Trafficking Persons.
 
 ---
 
@@ -45,7 +49,8 @@ Slug: publicity
 > exist in world affairs. A fascinating and important contribution to
 > international relations and global governance.
 > 
-> —Michael Barnett, International Affairs and Political Science, George Washington University, Washington, DC
+> —Michael Barnett, International Affairs and Political Science, George
+> Washington University, Washington, DC
 
 ---
 
@@ -56,7 +61,8 @@ Slug: publicity
 > ‘grades’ to provoke change in national policies—and has kept human
 > trafficking on the global agenda.
 > 
-> —Beth A. Simmons, Clarence Dillon Professor of International Affairs, Harvard University, Massachusetts
+> —Beth A. Simmons, Andrea Mitchell University Professor in Law and Political
+> Science, University of Pennsylvania
 
 </div>
 
