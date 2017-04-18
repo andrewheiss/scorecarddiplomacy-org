@@ -5,12 +5,12 @@ Excerpt: Something
 Template: case
 Slug: case-studies
 
+---
+
 <p><a href="/files/pdfs/Case%20study%20supplement.pdf" class="btn btn-primary">
 <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
 All case studies
 </a></p>
-
-[TOC]
 
 ---
 
