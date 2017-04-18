@@ -6,15 +6,40 @@ Template: page
 Slug: summary
 
 
-## Contents
+<div class="row" markdown=1>
 
-1. Chapter 1 (download chapter)
-2. Chapter 2
-3. etc.
+<div class="col-sm-3" markdown=1>
 
+**Part I**
 
-## Summary
+1. Introduction ([download chapter](/files/pdfs/Judith%20Kelley%2C%20Scorecard%20Diplomacy%2C%20Chapter%201.pdf))
+2. Scorecard Diplomacy and Reputation
+3. The Case of Human Trafficking
+4. How Third Parties Boost Reputational Concerns
+
+**Part II**
+
+<ol start="5">
+<li>Micro-Level Evidence of Reputational&nbsp;Concerns</li>
+<li>From Reputational Concerns to Effects on Laws, Practices, and&nbsp;Norms</li>
+<li><em>When</em> Does It&nbsp;Work?</li>
+<li>Country Perspectives (see <a href="/case-studies/">online case&nbsp;studies</a>)</li>
+<li>Conclusion: Reputation and&nbsp;Policy</li>
+</ol>
+
+**Appendices**
+
+- Methods Appendix ([download appendix](/files/pdfs/Judith%20Kelley%2C%20Scorecard%20Diplomacy%2C%20Methods%20Appendix.pdf))
+- Results Appendix
+
+</div>
+
+<div class="col-sm-9" markdown=1>
 
 What can the international community do when countries would rather ignore a thorny problem? *Scorecard Diplomacy* shows that, despite lacking traditional force, public grades are potent symbols that can evoke countries' concerns about their reputations and motivate them to address the problem. The book develops an unconventional but careful argument about the growing phenomenon of such ratings and rankings. It supports this by examining the United States' foreign policy on human trafficking using a global survey of NGOs, case studies, thousands of diplomatic cables, media stories, 90 interviews worldwide, and other documents. All of this is gathered together in a format that walks the reader through the mechanisms of scorecard diplomacy, including an assessment of the outcomes. *Scorecard Diplomacy* speaks both to those keen to understand the pros and cons of US policy on human trafficking and to those interested in the central question of influence in international relations.
 
-Also, picture of the scorecard diplomacy cycle.
+![The scorecard diplomacy cycle](/files/images/scorecard_diplomacy_cycle.png){.img-fluid}
+
+</div>
+
+</div>
