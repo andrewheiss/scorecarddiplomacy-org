@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/nigeria
 
+<p><a href="/files/pdfs/Case%20study%20-%20Nigeria.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 In Nigeria, pressure from the scorecard diplomacy has motivated the government
 to improve its reputation on TIP. Nigeria was included in the very first 2001

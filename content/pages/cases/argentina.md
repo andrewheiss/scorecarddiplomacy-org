@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/argentina
 
+<p><a href="/files/pdfs/Case%20study%20-%20Argentina.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 The Argentine case demonstrates how controversial TIP legislation can be and
 that getting is passed is by no means an easy accomplishment. It also

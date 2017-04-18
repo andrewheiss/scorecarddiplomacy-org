@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/oman
 
+<p><a href="/files/pdfs/Case%20study%20-%20Oman.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 Because Oman was so concerned with its image, the US was successful in bringing
 attention to trafficking and bringing about legal changes. Meetings occurred at

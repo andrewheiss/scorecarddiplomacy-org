@@ -5,9 +5,16 @@ Excerpt: Something
 Template: case
 Slug: case-studies
 
+<p><a href="/files/pdfs/Case%20study%20supplement.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+All case studies
+</a></p>
+
 [TOC]
 
-While many more cases are touched upon in the book manuscript, in all 15 cases were studied in depth. These included: Argentina, Armenia, Chad, Ecuador, Honduras, Indonesia, Israel, Japan, Kazakhstan, Malaysia, Mozambique, Nigeria, Oman, the United Arab Emirates, and Zimbabwe. The case studies form the base of this book. Only Armenia, Israel, Japan, and Zimbabwe were selected for fuller discussion in the book itself. All the case studies are therefore discussed here more fully. This cases here should be read in conjunction with the book. In particular, the case study selection as well as data comparing cases with non-cases is discussed in the Methods Appendix of the book and should be read before reading these cases.
+---
+
+While many more cases are touched upon in the book manuscript, in all 15 cases were studied in depth. These included: Argentina, Armenia, Chad, Ecuador, Honduras, Indonesia, Israel, Japan, Kazakhstan, Malaysia, Mozambique, Nigeria, Oman, the United Arab Emirates, and Zimbabwe. The case studies form the base of this book. Only Armenia, Israel, Japan, and Zimbabwe were selected for fuller discussion in the book itself. All the case studies are therefore discussed here more fully. This cases here should be read in conjunction with the book. In particular, the case study selection as well as data comparing cases with non-cases is discussed in the [Methods Appendix](/files/pdfs/Judith%20Kelley%2C%20Scorecard%20Diplomacy%2C%20Methods%20Appendix.pdf) of the book and should be read before reading these cases.
 
 These case studies provide the background for the coding in Tables A6.6–9 in the book. They also provide the background for the discussion in Chapters 7 and 8 in particular.
 

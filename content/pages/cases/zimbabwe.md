@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/zimbabwe
 
+<p><a href="/files/pdfs/Case%20study%20-%20Zimbabwe.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 The US had very limited success in producing anti-TIP progress in Zimbabwe. The
 US’s poor relationship with the Zimbabwean government, combined with the GOZ’s

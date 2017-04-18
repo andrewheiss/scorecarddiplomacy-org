@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/chad
 
+<p><a href="/files/pdfs/Case%20study%20-%20Chad.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 Despite considerable engagement between the US and Chad, little progress has
 been made due to other national concerns such as internal political conflict,

@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/israel
 
+<p><a href="/files/pdfs/Case%20study%20-%20Israel.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 This case illustrates many of the key mechanisms of scorecard diplomacy. The US
 TIP Report ratcheted government attention to human trafficking in Israel. Once

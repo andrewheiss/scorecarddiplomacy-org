@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/japan
 
+<p><a href="/files/pdfs/Case%20study%20-%20Japan.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 Japan illustrates the power of scorecard diplomacy, but also its weakness if
 the ratings become too timid. Japan was first placed on the TIP Report in 2001

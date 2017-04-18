@@ -14,3 +14,4 @@ theme/static/ViewerJS/*
 # Binary stuff
 content/files/data/*
 content/files/pdfs/*
+content/files/other/*

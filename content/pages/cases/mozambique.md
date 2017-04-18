@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/mozambique
 
+<p><a href="/files/pdfs/Case%20study%20-%20Mozambique.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 The collaboration between the United States and the government has been
 constructive. Tracking developments on domestic anti-TIP legislation shows the

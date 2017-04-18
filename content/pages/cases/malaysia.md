@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/malaysia
 
+<p><a href="/files/pdfs/Case%20study%20-%20Malaysia.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 The US has had a strong influence on anti-TIP policy in Malaysia. The
 government of Malaysia (GOM) cared greatly about its Tier ranking, repeatedly

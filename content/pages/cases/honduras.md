@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/honduras
 
+<p><a href="/files/pdfs/Case%20study%20-%20Honduras.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 *Honduras illustrates the difficulty of gaining the attention of a government
 in a country where other problems dwarf the trafficking issue and where

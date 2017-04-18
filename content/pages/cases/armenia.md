@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/armenia
 
+<p><a href="/files/pdfs/Case%20study%20-%20Armenia.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 Armenia illustrates the progress that can be made by generating reputational
 concerns using public ratings. Since 2001, the Armenian government has made

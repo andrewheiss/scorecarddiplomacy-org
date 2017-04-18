@@ -5,7 +5,14 @@ Excerpt: Something
 Template: case
 Slug: case-studies/ecuador
 
+<p><a href="/files/pdfs/Case%20study%20-%20Ecuador.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+PDF
+</a></p>
+
 [TOC]
+
+---
 
 Ecuador demonstrated strong political will to combat trafficking and respond to
 scorecard diplomacy and US input. Other political factors such as political
