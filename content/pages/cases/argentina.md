@@ -5,6 +5,8 @@ Excerpt: Something
 Template: case
 Slug: case-studies/argentina
 
+---
+
 <p><a href="/files/pdfs/Case%20study%20-%20Argentina.pdf" class="btn btn-primary">
 <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
 PDF

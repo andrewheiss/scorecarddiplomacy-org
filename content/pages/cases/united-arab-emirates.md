@@ -5,6 +5,8 @@ Excerpt: Something
 Template: case
 Slug: case-studies/united-arab-emirates
 
+---
+
 <p><a href="/files/pdfs/Case%20study%20-%20United%20Arab%20Emirates.pdf" class="btn btn-primary">
 <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
 PDF
@@ -89,7 +91,7 @@ it clear that these horrific abuses could not occur without knowledge and
 implicit consent by the elite, including the royal family. The next TIP Report
 referenced this documentary,[^474] in which the commentator had portrayed the
 United Arab Emirates as: “a rare Arab beacon of Western values ... with … an
-increasingly international outlook,” but noting that “for all its 21^st^
+increasingly international outlook,” but noting that “for all its 21st
 century progress, the UAE is also home to a sinister remnant of another time. A
 time when people were bought, sold, and kept as slaves.”[^475] The abuses thus
 exposed beyond denial, the government’s motivation from then on was to bring
@@ -123,7 +125,7 @@ motivated to improve its rating.[^484] Despite strong resistance from people
 involved with traditional camel racing, which had been found to traffic
 children for use as jockeys, the government quickly announced that it would
 criminalize the practice of employing child camel jockeys effective September
-1^st^, 2002. Meetings were held at very high levels, and the government created
+1st, 2002. Meetings were held at very high levels, and the government created
 a TIP task force.[^485] Meanwhile, the US was eager to use the UAE as a
 “success story,”[^486] and a “model for other countries,”[^487] so it rapidly
 elevated the UAE to Tier 1 by 2003. This turned out to be a mistake, for the

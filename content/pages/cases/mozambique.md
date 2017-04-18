@@ -5,6 +5,8 @@ Excerpt: Something
 Template: case
 Slug: case-studies/mozambique
 
+---
+
 <p><a href="/files/pdfs/Case%20study%20-%20Mozambique.pdf" class="btn btn-primary">
 <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
 PDF
@@ -147,7 +149,7 @@ it. The chargé d’affaires urged Mozambique to become the first country in the
 South African Development Community (SADC) with a comprehensive law. In a clear
 example of US agenda-setting power, within a week, an addendum placed the law
 on the current agenda for discussion and the President of the National Assembly
-called the chargé d’affaires to assure him. The law was passed on April 10^th^
+called the chargé d’affaires to assure him. The law was passed on April 10th
 that year, just in time to be included in the 2008 TIP Report.[^402] The
 embassy reported that the adoption of the law was the “result of a ‘perfect
 storm’ in recent months, including a constant lobbying effort by USG officials

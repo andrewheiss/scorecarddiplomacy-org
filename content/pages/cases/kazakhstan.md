@@ -5,6 +5,8 @@ Excerpt: Something
 Template: case
 Slug: case-studies/kazakhstan
 
+---
+
 <p><a href="/files/pdfs/Case%20study%20-%20Kazakhstan.pdf" class="btn btn-primary">
 <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
 PDF
@@ -167,7 +169,7 @@ NGOs.
 The spring of 2006 brought considerable progress. In February Parliament passed
 legislation to provide identified victims with temporary residence status to
 ensure their safe repatriation or participation in trafficking prosecutions. On
-March 2^nd^, 2006, in time for the annual TIP Report update from the embassy to
+March 2nd, 2006, in time for the annual TIP Report update from the embassy to
 Washington, the TIP amendments were finally enacted, and on April 10, the “2006
 - 2008 National Plan of Action to Combat TIP.” Nonetheless, in 2007 the US
 placed Kazakhstan on the watch list because its efforts to prosecute and

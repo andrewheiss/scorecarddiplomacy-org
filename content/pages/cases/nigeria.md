@@ -5,6 +5,8 @@ Excerpt: Something
 Template: case
 Slug: case-studies/nigeria
 
+---
+
 <p><a href="/files/pdfs/Case%20study%20-%20Nigeria.pdf" class="btn btn-primary">
 <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
 PDF
@@ -86,7 +88,7 @@ international reputation. To this end it held an international summit on
 trafficking in persons in 2002. Nigeria successfully worked to be seen as a
 regional role model on anti-TIP policy.[^416] The US DOS used Nigeria as a
 showcase example and the international media promulgated this idea. For
-example, on June 19^th^, 2009, a *Christian Science Monitor’s* editorial used
+example, on June 19th, 2009, a *Christian Science Monitor’s* editorial used
 Nigeria as example of how developing countries can take anti-TIP steps.[^417]
 
 To improve Nigeria’s Tier rating, the US worked closely with high-level
