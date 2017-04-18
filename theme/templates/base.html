@@ -34,6 +34,38 @@
           padding-top: 70px;
         }
 
+        /* Sticky footer styles */
+        html {
+          position: relative;
+          min-height: 100%;
+        }
+
+        body {
+          /* Margin bottom by footer height */
+          margin-bottom: 120px;
+        }
+
+        .footer {
+          position: absolute;
+          margin-top: 100px;
+          bottom: 0;
+          width: 100%;
+          height: 100px;
+        }
+
+        body > .footer-container {
+          padding: 100px 15px 0;
+        }
+
+        .footer-container .text-muted {
+          margin: 20px 0;
+        }
+
+        .footer > .footer-container {
+          padding-right: 15px;
+          padding-left: 15px;
+        }
+
         /* padding-bottom is the percent value of height/width. So for an
         8.5x11 PDF, it is 129.44%. But even then, it's a little too big. 100%
         works great. */
@@ -84,6 +116,18 @@
 
     {% block content %}
     {% endblock %}
+
+    <footer class="footer">
+      <div class="container footer-container">
+        <p class="text-muted">
+            This material has been published in <a href="http://www.cambridge.org/us/academic/subjects/politics-international-relations/international-relations-and-international-organisations/scorecard-diplomacy-grading-states-influence-their-reputation-and-behavior"><em>Scorecard Diplomacy: Grading States to Influence their Reputation and Behavior</em></a> by Judith Kelley.
+        <br>
+            The files included here are free to view and download for personal use only. Not for re-distribution, re-sale, or use in commercial derivative works. 
+        <br>
+            &copy; 2017, Judith Kelley. 
+        </p>
+      </div>
+    </footer>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
