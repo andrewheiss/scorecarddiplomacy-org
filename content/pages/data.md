@@ -5,19 +5,15 @@ Excerpt: Something
 Template: page
 Slug: data
 
-<div class="row" markdown=1>
 
-<div class="col-md-6" markdown=1>
-
-## Data and code
-
-### Statistical analysis
+## Statistical analysis
 
 The code for creating all the project's figures, tables, and analysis is available in a [version-controlled repository at GitHub](https://github.com/andrewheiss/scorecard-diplomacy). Everything in the book can be recreated using [R](https://www.r-project.org/), preferably within [RStudio](https://www.rstudio.com/), since the code is structured as an RStudio project.
 
 This project uses data from dozens of different datasets and sources. All data can be accessed in the [project's GitHub repository](https://github.com/andrewheiss/scorecard-diplomacy/tree/master/data). The [most recent release of the project's source code](https://github.com/andrewheiss/scorecard-diplomacy/releases) also contains this data.
 
-### NGO survey
+
+## NGO survey
 
 The code to clean and process the survey data is available in the [GitHub repository](https://github.com/andrewheiss/From-the-Trenches-Anti-TIP-NGOs-and-US) for Andrew Heiss and Judith G. Kelley. 2016. "From the Trenches: A Global Survey of Anti-TIP NGOs and their Views of US Efforts." *Journal of Human Trafficking*. [doi:10.1080/23322705.2016.1199241](https://dx.doi.org/10.1080/23322705.2016.1199241)
 
@@ -27,9 +23,6 @@ redacted.
 - CSV file: [`responses_full_anonymized.csv`](/files/data/responses_full_anonymized.csv)
 - R file: [`responses_full_anonymized.rds`](/files/data/responses_full_anonymized.rds)
 
-</div>
-
-<div class="col-md-6" markdown=1>
 
 ## Additional analysis and methods appendix
 
@@ -40,15 +33,7 @@ Much of the analysis and statistical modeling run for the project did not end up
 - [`Replication and extension.pdf`](/files/pdfs/Replication%20and%20extension.pdf): Much of the statistical work in *Scorecard Diplomacy* is based on the models in Judith G. Kelley and Beth A. Simmons. 2015. "Politics by Number: Indicators as Social Pressure in International Relations." *American Journal of Political Science* 59, no. 1 (January): 55–70. [doi:10.1111/ajps.12119](http://dx.doi.org/10.1111/ajps.12119). The models in the article were created using Stata, and to ensure that the R-based results for the book were comparable, we first replicated the results from the article before expanding the models for the book's larger scope. This file shows the replicated results as well as the various iterations of expanded models that preceded the models that ultimately made it into the book.
 - [`Interactions.pdf`](/files/pdfs/Interactions%20by%20treatment.pdf): Tables A7.1–5 and Figures A7.1–2 in the book's Results Appendix include the results from several statistical models that test the interaction of being present or downgraded in the annual TIP Report with the country's level of democracy. This file shows the results of dozens of other models testing for the interactive effects of 12 individual factors by presence in the TIP Report, receiving a lower rating, and being downgraded from the previous year.
 
-</div>
-
-</div>
-
 ---
-
-<div class="row" markdown=1>
-
-<div class="col-md-6" markdown=1>
 
 ## Content analysis
 
@@ -57,10 +42,6 @@ Many different sources were used for content analysis, including the annual [Tra
 Media stories and State Department cables were loaded into qualitative data analysis software. QDA Miner is required to view this analysis, and is accessible either for free with [QDA Miner Lite](https://provalisresearch.com/products/qualitative-data-analysis-software/freeware/) (free) or with the [full version](https://provalisresearch.com/products/qualitative-data-analysis-software/).
 
 Both cables and media stories were coded for reactions of officials to the annual TIP Report. The codes are explained in Chapter 4 in the book and can also be found in the [Methods Appendix](/files/pdfs/Judith%20Kelley%2C%20Scorecard%20Diplomacy%2C%20Methods%20Appendix.pdf).
-
-</div>
-
-<div class="col-md-6" markdown=1>
 
 ### Cables
 
@@ -75,7 +56,3 @@ Four files are included with additional information:
 2. [`All stories.pdf`](/files/pdfs/All%20stories.pdf) contains 492 stories referencing the TIP report
 3. [`Additional Watch List stories.pdf`](/files/pdfs/Additional%20Watch%20list%20stories.pdf): contains 98 stories referencing the Watch List
 4. [`Media coverage.xlsx`](/files/other/Media%20coverage.xlsx): contains the raw data containing classification of media stories covering the TIP report
-
-</div>
-
-</div>
