@@ -7,7 +7,7 @@ Slug: publicity
 
 <div class="row" markdown=1>
 
-<div class="col-sm-6" markdown=1>
+<div class="col-sm-8" markdown=1>
 
 ## Reviews
 
@@ -66,7 +66,7 @@ Slug: publicity
 
 </div>
 
-<div class="col-sm-6" markdown=1>
+<div class="col-sm-4" markdown=1>
 
 ## In the news
 
