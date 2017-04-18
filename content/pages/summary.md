@@ -8,7 +8,7 @@ Slug: summary
 
 <div class="row" markdown=1>
 
-<div class="col-sm-3" markdown=1>
+<div class="col-sm-4" markdown=1>
 
 **Part I**
 
@@ -34,11 +34,11 @@ Slug: summary
 
 </div>
 
-<div class="col-sm-9" markdown=1>
+<div class="col-sm-8" markdown=1>
 
 What can the international community do when countries would rather ignore a thorny problem? *Scorecard Diplomacy* shows that, despite lacking traditional force, public grades are potent symbols that can evoke countries' concerns about their reputations and motivate them to address the problem. The book develops an unconventional but careful argument about the growing phenomenon of such ratings and rankings. It supports this by examining the United States' foreign policy on human trafficking using a global survey of NGOs, case studies, thousands of diplomatic cables, media stories, 90 interviews worldwide, and other documents. All of this is gathered together in a format that walks the reader through the mechanisms of scorecard diplomacy, including an assessment of the outcomes. *Scorecard Diplomacy* speaks both to those keen to understand the pros and cons of US policy on human trafficking and to those interested in the central question of influence in international relations.
 
-![The scorecard diplomacy cycle](/files/images/scorecard_diplomacy_cycle.png){.img-fluid}
+![The scorecard diplomacy cycle](/files/images/scorecard_diplomacy_cycle_color.png)
 
 </div>
 
