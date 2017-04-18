@@ -54,7 +54,7 @@ CATEGORIES_SAVE_AS = ''
 # ------------
 MENUITEMS = [('Summary', '/summary/'),
              ('Author', '/author/'),
-             ('News and publicity', '/publicity/'),
+             ('Press', '/press/'),
              ('Case studies', '/case-studies/'),
              ('Data, code, and analysis', '/data/'),
              ('Global survey', '/survey/'),

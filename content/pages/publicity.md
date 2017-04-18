@@ -3,11 +3,68 @@ Date: 2017-04-11
 Modified: 2017-04-11 16:27:50
 Excerpt: Something
 Template: page
-Slug: publicity
+Slug: press
 
 <div class="row" markdown=1>
 
-<div class="col-sm-8" markdown=1>
+<div class="col-sm-6">
+
+<h2>In the news</h2>
+
+<table class="table">
+    <tr>
+        <td><img src="/files/press/policy_360.png" alt="Policy 360 podcast" class="center-block"></td>
+        <td>
+            <strong><a href="https://soundcloud.com/sanford-school-duke/ep-41-ranking-countries-can?in=sanford-school-duke/sets/policy-360-with-kelly-brownell">What WikiLeaks Reveals About Human Trafficking</a></strong>
+            <br>
+            <em>Policy 360 podcast</em>, March 14, 2017
+        </td>
+    </tr>
+    <tr>
+        <td><img src="/files/press/sanford.png" alt="Sanford School of Public Policy" class="center-block"></td>
+        <td>
+            <strong><a href="https://dukesanford.atavist.com/the-big-idea-kelley">THE BIG IDEA: Scorecard Diplomacy</a></strong>
+            <br>
+            Sanford School of Public Policy, February 2017
+        </td>
+    </tr>
+    <tr>
+        <td><img src="/files/press/washington_diplomat.png" alt="The Washington Diplomat" class="center-block"></td>
+        <td>
+            <strong><a href="http://washdiplomat.com/index.php?option=com_content&id=12470%3Astate-department-faces-backlash-over-politicized-trafficking-report&Itemid=428">State Department Faces Backlash Over ‘Politicized’ Trafficking Report</a></strong>
+            <br>
+            <em>The Washington Diplomat</em>, September 30, 2015
+        </td>
+    </tr>
+    <tr>
+        <td><img src="/files/press/sanford.png" alt="Sanford School of Public Policy" class="center-block"></td>
+        <td>
+            <strong><a href="https://sanford.duke.edu/articles/%E2%80%98scorecard-diplomacy%E2%80%99-rating-nations-fight-against-human-trafficking">'Scorecard Diplomacy:' Rating Nations on the Fight Against Human Trafficking</a></strong>
+            <br>
+            Sanford School of Public Policy, April 29, 2015
+        </td>
+    </tr>
+    <tr>
+        <td><img src="/files/press/times_union.png" alt="Times Union" class="center-block"></td>
+        <td>
+            <strong><a href="http://www.timesunion.com/opinion/article/U-S-must-stay-strong-in-fight-against-human-5899201.php">U.S. must stay strong in fight against human trafficking</a></strong>
+            <br>
+            <em>Times Union</em>, November 17, 2014
+        </td>
+    </tr>
+    <tr>
+        <td><img src="/files/press/economist.png" alt="Times Union" class="center-block"></td>
+        <td>
+            <strong><a href="http://www.economist.com/news/international/21631039-international-comparisons-are-popular-influentialand-sometimes-flawed-ranking-rankings">Ranking the rankings</a></strong>
+            <br>
+            <em>The Economist</em>, November 8, 2014
+        </td>
+    </tr>
+</table>
+
+</div>
+
+<div class="col-sm-6" markdown=1>
 
 ## Reviews
 
@@ -63,30 +120,6 @@ Slug: publicity
 > 
 > —Beth A. Simmons, Andrea Mitchell University Professor in Law and Political
 > Science, University of Pennsylvania
-
-</div>
-
-<div class="col-sm-4" markdown=1>
-
-## In the news
-
-[What WikiLeaks Reveals About Human Trafficking](https://soundcloud.com/sanford-school-duke/ep-41-ranking-countries-can?in=sanford-school-duke/sets/policy-360-with-kelly-brownell)
-:   *Policy 360 podcast*, March 14, 2017
-
-[THE BIG IDEA: Scorecard Diplomacy](https://dukesanford.atavist.com/the-big-idea-scorecard-diplomacy)
-:   Sanford School of Public Policy, February 2017
-
-[State Department Faces Backlash Over ‘Politicized’ Trafficking Report](http://washdiplomat.com/index.php?option=com_content&id=12470%3Astate-department-faces-backlash-over-politicized-trafficking-report&Itemid=428)
-:   *The Washington Diplomat*, September 30, 2015
-
-['Scorecard Diplomacy:' Rating Nations on the Fight Against Human Trafficking](https://sanford.duke.edu/articles/%E2%80%98scorecard-diplomacy%E2%80%99-rating-nations-fight-against-human-trafficking)
-:   Sanford School of Public Policy, April 29, 2015
-
-[U.S. must stay strong in fight against human trafficking](http://www.timesunion.com/opinion/article/U-S-must-stay-strong-in-fight-against-human-5899201.php)
-:   *Times Union*, November 17, 2014
-
-[Ranking the rankings](http://www.economist.com/news/international/21631039-international-comparisons-are-popular-influentialand-sometimes-flawed-ranking-rankings)
-:   *The Economist*, November 8, 2014
 
 </div>
 
