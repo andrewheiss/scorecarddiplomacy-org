@@ -11,7 +11,7 @@ their engagement with the US and the TIP Report, as well as their assessments
 of the role of the US in their countries and their own governments’
 performance.
 
-The survey was based on a database over 1,103 NGOs assembled between 2012 and
+The survey was based on a database of 1,103 NGOs assembled between 2012 and
 2014. We received responses from 480 unique organizations, yielding a
 participation rate of 43.5%. Because NGOs often work in multiple
 countries, we allowed respondents to answer a series of country-specific
