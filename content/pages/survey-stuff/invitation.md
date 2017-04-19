@@ -11,7 +11,7 @@ Slug: survey/invitation
 
 ---
 
-![TIP banner](/files/images/tip_banner.png){.img-fluid}
+![TIP banner](/files/images/tip_banner.png){.center-block}
 
 Hello,
 
