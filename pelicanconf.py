@@ -84,6 +84,12 @@ SURVEY_MENU = [('Survey', '/survey/'),
                ('Original survey', '/survey/original-survey/'),
                ('Survey data', '/survey/data/')]
 
+DATA_MENU = [('Data', '/data/'),
+             ('Statistical analysis and data', '/data/statistics-data/'),
+             ('NGO survey', '/data/survey/'),
+             ('Additional analysis and methods appendix', '/data/analysis-methods/'),
+             ('Content analysis', '/data/content-analysis/')]
+
 DEFAULT_PAGINATION = False
 
 PLUGIN_PATHS = ['plugins']
