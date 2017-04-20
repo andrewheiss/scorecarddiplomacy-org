@@ -1,6 +1,4 @@
 Title: Case selection and methodology
-Date: 2017-04-20
-Modified: 2017-04-20 10:25:08
 Excerpt: Something
 Template: case
 Slug: case-studies/case-selection

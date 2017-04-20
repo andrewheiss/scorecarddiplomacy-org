@@ -1,6 +1,4 @@
 Title: Additional analysis
-Date: 2017-04-19
-Modified: 2017-04-19 13:05:24
 Excerpt: Something
 Template: data
 Slug: data/additional-analysis

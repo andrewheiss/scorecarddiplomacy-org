@@ -1,6 +1,4 @@
 Title: Kazakhstan
-Date: 2017-04-11
-Modified: 2017-04-11 13:01:44
 Excerpt: Something
 Template: case
 Slug: case-studies/kazakhstan

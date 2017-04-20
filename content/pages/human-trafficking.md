@@ -1,6 +1,4 @@
 Title: Human Trafficking
-Date: 2017-04-19
-Modified: 2017-04-19 21:26:53
 Excerpt: Something
 Template: excerpt
 Slug: human-trafficking

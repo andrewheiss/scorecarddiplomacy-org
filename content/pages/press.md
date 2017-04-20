@@ -1,6 +1,4 @@
 Title: News and publicity
-Date: 2017-04-11
-Modified: 2017-04-11 16:27:50
 Excerpt: Something
 Template: page
 Slug: press

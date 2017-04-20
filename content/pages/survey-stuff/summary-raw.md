@@ -1,6 +1,4 @@
 Title: Raw summary of survey
-Date: 2017-04-11
-Modified: 2017-04-11 15:08:49
 Excerpt: Something
 Template: survey
 Slug: survey/summary-raw

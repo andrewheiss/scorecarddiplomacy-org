@@ -1,6 +1,4 @@
 Title: Scorecard Diplomacy
-Date: 2017-04-08
-Modified: 2017-04-08 23:15:33
 Excerpt: Something
 save_as: index.html
 

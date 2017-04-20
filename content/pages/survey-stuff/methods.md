@@ -1,6 +1,4 @@
 Title: Survey methods
-Date: 2017-04-20
-Modified: 2017-04-20 12:55:06
 Excerpt: Something
 Template: survey
 Slug: survey/methods

@@ -1,6 +1,4 @@
 Title: Global survey of anti-trafficking NGOs
-Date: 2017-04-11
-Modified: 2017-04-11 15:36:38
 Excerpt: Something
 Template: survey
 Slug: survey
