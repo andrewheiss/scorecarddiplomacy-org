@@ -43,7 +43,7 @@ unchanged.
 
 ![Chad’s TIP ranking and policy during governments, 2004–2014](/files/images/timeline_TCD.png){.img-fluid}
 
-*Figure 3: Chad’s TIP ranking and policy during governments, 2004–2014*
+<div class="well"><em>Figure 3</em>: Chad’s TIP ranking and policy during governments, 2004–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | --------------------
@@ -53,7 +53,7 @@ Aid from US                           | $1,273.57 million
 Average total aid as percent of GDP   | 6.33%
 Total TIP grants                      | $1,302,555
 
-*Table 3: Key Chadian statistics, averaged 2001–2013*
+<div class="well"><em>Table 3</em>: Key Chadian statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

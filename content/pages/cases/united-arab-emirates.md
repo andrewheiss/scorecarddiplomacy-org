@@ -54,7 +54,7 @@ societal structure.
 
 ![United Arab Emirates’s TIP ranking and policy during governments, 2000–2014](/files/images/timeline_ARE.png){.img-fluid}
 
-*Figure 14: United Arab Emirates’s TIP ranking and policy during governments, 2000–2014*
+<div class="well"><em>Figure 14</em>: United Arab Emirates’s TIP ranking and policy during governments, 2000–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | -----------------
@@ -64,7 +64,7 @@ Aid from US                           | $1.54 million
 Average total aid as percent of GDP   | 0.00211%
 Total TIP grants                      | $0
 
-*Table 14: Key Emirati statistics, averaged 2001–2013*
+<div class="well"><em>Table 14</em>: Key Emirati statistics, averaged 2001–2013</div>
 
 ## Indirect pressure
 

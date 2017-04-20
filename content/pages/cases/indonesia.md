@@ -46,7 +46,7 @@ improvements.
 
 ![Indonesia’s TIP ranking and policy during governments, 2000–2014](/files/images/timeline_IDN.png){.img-fluid}
 
-*Figure 6: Indonesia’s TIP ranking and policy during governments, 2000–2014*
+<div class="well"><em>Figure 6</em>: Indonesia’s TIP ranking and policy during governments, 2000–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | ---------------------
@@ -56,7 +56,7 @@ Aid from US                           | $4,459.55 million
 Average total aid as percent of GDP   | 0.999%
 Total TIP grants                      | $35,201,686
 
-*Table 6: Key Indonesian statistics, averaged 2001–2013*
+<div class="well"><em>Table 6</em>: Key Indonesian statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

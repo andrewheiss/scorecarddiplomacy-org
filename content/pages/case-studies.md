@@ -67,9 +67,9 @@ Because the case studies aim to understand scorecard diplomacy, they have been
 reorganized from chronological accounts into discussions of the major steps of
 the scorecard diplomacy cycle, shown in Figure A.
 
-![The scorecard diplomacy cycle](/files/images/scorecard_diplomacy_cycle.png){.img-fluid}
+![The scorecard diplomacy cycle](/files/images/scorecard_diplomacy_cycle.png)
 
-*Figure A: The scorecard diplomacy cycle*
+<div class="well"><em>Figure A</em>: The scorecard diplomacy cycle</div>
 
 Each case begins with a summary of the scorecard diplomacy of the case,
 followed by a *very* brief account of the trafficking situation in each

@@ -47,8 +47,7 @@ throughout the period and the policy gains have been modest.
 
 ![Honduras’s TIP ranking and policy during governments, 2000–2014](/files/images/timeline_HND.png){.img-fluid}
 
-*Figure 5: Honduras’s TIP ranking and policy during governments,
-2000–2014*
+<div class="well"><em>Figure 5</em>: Honduras’s TIP ranking and policy during governments, 2000–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | --------------------
@@ -58,7 +57,7 @@ Aid from US                           | $1,454.53 million
 Average total aid as percent of GDP   | 5.46%
 Total TIP grants                      | $2,335,000
 
-*Table 5: Key Honduran statistics, averaged 2001–2013*
+<div class="well"><em>Table 5</em>: Key Honduran statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

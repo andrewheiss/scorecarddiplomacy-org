@@ -60,7 +60,7 @@ reflecting the government’s on-going implementation problems. Since the mid-
 
 ![Malaysia’s TIP ranking and policy during governments, 2001–2014](/files/images/timeline_MYS.png){.img-fluid}
 
-*Figure 10: Malaysia’s TIP ranking and policy during governments, 2001–2014*
+<div class="well"><em>Figure 10</em>: Malaysia’s TIP ranking and policy during governments, 2001–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | --------------------
@@ -70,7 +70,7 @@ Aid from US                           | $1,164.50 million
 Average total aid as percent of GDP   | 0.194%
 Total TIP grants                      | $968,140
 
-*Table 10: Key Malaysian statistics, averaged 2001–2013*
+<div class="well"><em>Table 10</em>: Key Malaysian statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

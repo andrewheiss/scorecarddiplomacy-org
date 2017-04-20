@@ -54,7 +54,7 @@ work. Human and drug trafficking commonly co-occur.
 
 ![Mozambique’s TIP ranking and policy during governments, 2003–2014](/files/images/timeline_MOZ.png){.img-fluid}
 
-*Figure 11: Mozambique’s TIP ranking and policy during governments, 2003–2014*
+<div class="well"><em>Figure 11</em>: Mozambique’s TIP ranking and policy during governments, 2003–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | ---------------------
@@ -64,7 +64,7 @@ Aid from US                           | $3,663.10 million
 Average total aid as percent of GDP   | 28.2%
 Total TIP grants                      | $3,712,000
 
-*Table 11: Key Mozambican statistics, averaged 2001–2013*
+<div class="well"><em>Table 11</em>: Key Mozambican statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

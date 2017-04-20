@@ -27,18 +27,16 @@ Actual numbers of victims are unreliable.[^6] In 2002, the US State Department e
 
 ![Human trafficking patterns of major origin and destination regions, 2010–2012](/files/images/figure3_1_trafficking_patterns.png)
 
-*Figure 3.1*. Human trafficking patterns of major origin and destination regions, 2010–2012.  
-The arrows show the flows that represent 5 percent or above of the total victims detected in the sub-regions.  
-Source: UN Office on Drugs and Crime (UNODC).  
-
+<div class="well"><em>Figure 3.1</em>. Human trafficking patterns of major origin and destination regions, 2010–2012.<br>
+The arrows show the flows that represent 5 percent or above of the total victims detected in the sub-regions.<br>
+Source: UN Office on Drugs and Crime (UNODC).</div>
 
 The pattern of movements varies across countries. Some countries are mostly sources of trafficking victims who are transported or travel to destination countries where they are victimized. Countries can also be transit countries, meaning that the victims travel or are transported through the country but neither originate nor remain there. Many countries can be classified as all three types. Given that trafficking can also take on many guises, countries face mixed challenges. Figure 3.1 displays the major movement patterns. Despite an increase in prosecutions and convictions, compared to the number of victims estimated above, human trafficking goes largely unpunished (see Figure 3.2).
 
 ![Human trafficking prosecutions and convictions worldwide, 2003–2014](/files/images/figure3_2_tip_convictions.png)
 
-*Figure 3.2*. Human trafficking prosecutions and convictions worldwide, 2003–2014.  
-Source: 2007 and 2016 TIP Reports, section on “Global Law Enforcement Data.”  
-
+<div class="well"><em>Figure 3.2</em>. Human trafficking prosecutions and convictions worldwide, 2003–2014.<br>
+Source: 2007 and 2016 TIP Reports, section on “Global Law Enforcement Data.”</div>
 
 
 ### The Backdrop for Reputations: The Emergence of a Global Prohibition Norm
@@ -63,8 +61,8 @@ Since the passage of the protocol, the legal and political landscape around huma
 
 ![Number of state parties to the Palermo Protocol](/files/images/figure3_3_palermo_protocol_ratifications.png)
 
-*Figure 3.3*. Number of state parties to the Palermo Protocol to Prevent, Suppress and Punish Trafficking in Persons (Palermo Protocol) to the Convention against Transnational Organized Crime.  
-Source: UNODC.  
+<div class="well"><em>Figure 3.3</em>. Number of state parties to the Palermo Protocol to Prevent, Suppress and Punish Trafficking in Persons (Palermo Protocol) to the Convention against Transnational Organized Crime.<br>
+Source: UNODC.</div>
 
 
 IGOs focused on human trafficking include the United Nations Office on Drugs and Crime (UNODC), which started the Global Programme against Trafficking in Human Beings in 1999, the International Labour Organization (ILO), the International Criminal Police Organization, and the International Organization for Migration. In 2007 UNODC launched UN.GIFT (United Nations Global Initiative to Fight Human Trafficking) with a large gathering in Vienna, Austria. In 2002 the Organization for Security and Co-operation in Europe (OSCE) adopted the Declaration on Trafficking in Human Beings that created so-called “national referring mechanisms” to facilitate coordination. The Council of Europe and the European Union have also been active, though the focus has largely been limited to member and neighbor states. The US has been at the forefront of leaning on governments around the world to live up to international standards.

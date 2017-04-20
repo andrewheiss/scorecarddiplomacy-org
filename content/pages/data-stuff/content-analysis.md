@@ -4,7 +4,7 @@ Template: data
 Slug: data/content-analysis
 
 
-Many different sources were used for content analysis, including the annual [Trafficking in Persons (TIP) Report from the US State Department](https://www.state.gov/j/tip/rls/tiprpt/), US State Department diplomatic cables, and as documents from various intergovernmental and non-governmental organizations that deal with trafficking in persons. The [Methods Appendix](/data/methods-appendix/) describes these sources further and includes an analysis of the issue of "missing" cables,
+Many different sources were used for content analysis, including the annual [Trafficking in Persons (TIP) Report from the US State Department](https://www.state.gov/j/tip/rls/tiprpt/), US State Department diplomatic cables, and as documents from various intergovernmental and non-governmental organizations that deal with trafficking in persons. The [Methods Appendix](/data/methods-appendix/) describes these sources further and includes an analysis of the issue of "missing" cables.
 
 Media stories and State Department cables were loaded into qualitative data analysis software. QDA Miner is required to view this analysis, and is accessible either for free with [QDA Miner Lite](https://provalisresearch.com/products/qualitative-data-analysis-software/freeware/) (free) or with the [full version](https://provalisresearch.com/products/qualitative-data-analysis-software/).
 

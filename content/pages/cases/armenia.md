@@ -53,7 +53,7 @@ during the regime of President Serzh Sargsyan.
 
 ![Armenia’s TIP ranking and policy during governments, 2002–2014](/files/images/timeline_ARM.png){.img-fluid}
 
-*Figure 2: Armenia’s TIP ranking and policy during governments, 2002–2014*
+<div class="well"><em>Figure 2</em>: Armenia’s TIP ranking and policy during governments, 2002–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | --------------------
@@ -63,7 +63,7 @@ Aid from US                           | $1,378.93 million
 Average total aid as percent of GDP   | 6.61%
 Total TIP grants                      | $1,728,605
 
-*Table 2: Key Armenian statistics, averaged 2001–2013*
+<div class="well"><em>Table 2</em>: Key Armenian statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

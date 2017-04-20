@@ -52,7 +52,7 @@ Israel has made policy progress, as shown in Figure 7.
 
 ![Israel’s TIP ranking and policy during governments, 2000–2014](/files/images/timeline_ISR.png){.img-fluid}
 
-*Figure 7: Israel’s TIP ranking and policy during governments, 2000–2014*
+<div class="well"><em>Figure 7</em>: Israel’s TIP ranking and policy during governments, 2000–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | --------------------
@@ -62,7 +62,7 @@ Aid from US                           | $3,294.01 million
 Average total aid as percent of GDP   | 0.34%
 Total TIP grants                      | $1,624,909
 
-*Table 7: Key Israeli statistics, averaged 2001–2013*
+<div class="well"><em>Table 7</em>: Key Israeli statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

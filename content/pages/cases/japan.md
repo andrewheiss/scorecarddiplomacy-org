@@ -52,7 +52,7 @@ rating.
 
 ![Japan’s TIP ranking and policy during governments, 2000–2014](/files/images/timeline_JPN.png){.img-fluid}
 
-*Figure 8: Japan’s TIP ranking and policy during governments, 2000–2014*
+<div class="well"><em>Figure 8</em>: Japan’s TIP ranking and policy during governments, 2000–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | ----------------
@@ -62,7 +62,7 @@ Aid from US                           | $0 million
 Average total aid as percent of GDP   | 0%
 Total TIP grants                      | $821,300
 
-*Table 8: Key Japanese statistics, averaged 2001–2013*
+<div class="well"><em>Table 8</em>: Key Japanese statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

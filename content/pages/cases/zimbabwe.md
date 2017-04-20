@@ -22,7 +22,7 @@ propaganda.
 
 ![Zimbabwe’s TIP ranking and policy during governments, 2000–2014](/files/images/timeline_ZWE.png){.img-fluid}
 
-*Figure 15: Zimbabwe’s TIP ranking and policy during governments, 2000–2014*
+<div class="well"><em>Figure 15</em>: Zimbabwe’s TIP ranking and policy during governments, 2000–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | --------------------
@@ -32,7 +32,7 @@ Aid from US                           | $1,681.96 million
 Average total aid as percent of GDP   | 5.13%
 Total TIP grants                      | $670,000
 
-*Table 15: Key Zimbabwean statistics, averaged 2001–2013*
+<div class="well"><em>Table 15</em>: Key Zimbabwean statistics, averaged 2001–2013</div>
 
 ## Outcomes
 

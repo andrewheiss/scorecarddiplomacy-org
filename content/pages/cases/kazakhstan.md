@@ -49,7 +49,7 @@ below.
 
 ![Kazakhstan’s TIP ranking and policy during governments, 2000–2014](/files/images/timeline_KAZ.png){.img-fluid}
 
-*Figure 9: Kazakhstan’s TIP ranking and policy during governments, 2000–2014*
+<div class="well"><em>Figure 9</em>: Kazakhstan’s TIP ranking and policy during governments, 2000–2014</div>
 
 Statistic                            | Value
 -------------------------------------| ---------------------
@@ -59,7 +59,7 @@ Aid from US                          | $954.94 million
 Average total aid as percent of GDP  | 0.92%
 Total TIP grants                     | $7,554,219
 
-*Table 9: Key Kazakhstani statistics, averaged 2001–2013*
+<div class="well"><em>Table 9</em>: Key Kazakhstani statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

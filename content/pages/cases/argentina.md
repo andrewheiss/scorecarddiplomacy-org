@@ -58,7 +58,7 @@ problem over time, as reflected in the TIP policy index also shown in Figure 1.
 
 ![Argentina’s TIP ranking and policy during governments, 2003–2014](/files/images/timeline_ARG.png){.img-fluid}
 
-*Figure 1: Argentina’s TIP ranking and policy during governments, 2003–2014*
+<div class="well"><em>Figure 1</em>: Argentina’s TIP ranking and policy during governments, 2003–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | -------------------
@@ -68,7 +68,7 @@ Aid from US                           | $275.43 million
 Average total aid as percent of GDP   | 2.7%
 Total TIP grants                      | $1,310,156
 
-*Table 1: Key Argentinian statistics, averaged 2001–2013*
+<div class="well"><em>Table 1</em>: Key Argentinian statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

@@ -43,7 +43,7 @@ GOE. Ecuador has since improved considerably over time, as shown in Figure 4.
 
 ![Ecuador’s TIP ranking and policy during governments, 2003–2014](/files/images/timeline_ECU.png){.img-fluid}
 
-*Figure 4: Ecuador’s TIP ranking and policy during governments, 2003–2014*
+<div class="well"><em>Figure 4</em>: Ecuador’s TIP ranking and policy during governments, 2003–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | ---------------------
@@ -53,7 +53,7 @@ Aid from US                           | $960.61 million
 Average total aid as percent of GDP   | 2.21%
 Total TIP grants                      | $7,856,032
 
-*Table 4: Key Ecuadorian statistics, averaged 2001–2013*
+<div class="well"><em>Table 4</em>: Key Ecuadorian statistics, averaged 2001–2013</div>
 
 ## Direct diplomacy
 

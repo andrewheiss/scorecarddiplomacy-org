@@ -48,7 +48,7 @@ Haram has exacerbated abuses.
 
 ![Nigeria’s TIP ranking and policy during governments, 2000–2014](/files/images/timeline_NGA.png){.img-fluid}
 
-*Figure 12: Nigeria’s TIP ranking and policy during governments, 2000–2014*
+<div class="well"><em>Figure 12</em>: Nigeria’s TIP ranking and policy during governments, 2000–2014</div>
 
 Statistic                             | Value
 ------------------------------------- | ---------------------
@@ -58,7 +58,7 @@ Aid from US                           | $4,989.99 million
 Average total aid as percent of GDP   | 1.36%
 Total TIP grants                      | $3,295,000
 
-*Table 12: Key Nigerian statistics, averaged 2001–2013*
+<div class="well"><em>Table 12</em>: Key Nigerian statistics, averaged 2001–2013</div>
 
 ## Indirect pressure
 
