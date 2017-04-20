@@ -10,6 +10,12 @@ The full, peer-reviewed results of the global survey are published in an article
 
 A free pre-print version of the article is accessible below.
 
+<div style="text-align: center;">
+<p><a href="/files/pdfs/Heiss%20and%20Kelley%2C%20From%20the%20Trenches.pdf" class="btn btn-primary">
+<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+“From the Trenches” article</a></p>
+</div>
+
 [![NGO article thumbnail][2]{.center-block .img-thumbnail}][1]
 
 [1]: /files/pdfs/Heiss%20and%20Kelley%2C%20From%20the%20Trenches.pdf
