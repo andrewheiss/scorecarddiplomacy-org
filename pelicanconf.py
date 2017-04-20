@@ -86,9 +86,9 @@ SURVEY_MENU = [('Survey', '/survey/'),
                ('Survey data', '/survey/data/')]
 
 DATA_MENU = [('Data', '/data/'),
+             ('Methods appendix', '/data/methods-appendix/'),
              ('Statistical analysis and data', '/data/statistics-data/'),
-             ('NGO survey', '/data/survey/'),
-             ('Additional analysis and methods appendix', '/data/analysis-methods/'),
+             ('Additional analysis', '/data/additional-analysis/'),
              ('Content analysis', '/data/content-analysis/')]
 
 DEFAULT_PAGINATION = False
