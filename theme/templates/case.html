@@ -21,6 +21,17 @@
             </div>
             <div class="col-sm-9">
                 <h1>{{ page.title }}</h1>
+
+                {% if page.pdf %}
+                <div class="well">
+                <p><em>How to cite:</em> Judith G. Kelley. “Case Study Supplement: A Closer Look at Outcomes. A Companion to Scorecard Diplomacy: Grading States to Influence their Reputation and Behavior, published by Cambridge University Press, 2017.” Published online April 2017 at <a href="{{ url }}">{{ url }}</a>.</p>
+
+                <a href="{{ page.pdf }}" class="btn btn-primary">
+                <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
+                PDF
+                </a>
+                </div>
+                {% endif %}
                 {{ page.content }}
             </div>
         </div>

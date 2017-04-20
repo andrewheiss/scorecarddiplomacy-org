@@ -4,13 +4,11 @@ Modified: 2017-04-11 13:01:44
 Excerpt: Something
 Template: case
 Slug: case-studies/israel
+PDF: /files/pdfs/Case%20study%20-%20Israel.pdf
 
 ---
 
-<p><a href="/files/pdfs/Case%20study%20-%20Israel.pdf" class="btn btn-primary">
-<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
-PDF
-</a></p>
+**Contents**
 
 [TOC]
 

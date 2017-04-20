@@ -4,17 +4,10 @@ Modified: 2017-04-08 23:42:58
 Excerpt: Something
 Template: case
 Slug: case-studies
+PDF: /files/pdfs/Case%20study%20supplement.pdf
 
----
 
-<p><a href="/files/pdfs/Case%20study%20supplement.pdf" class="btn btn-primary">
-<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
-All case studies
-</a></p>
-
----
-
-While many more cases are touched upon in the book manuscript, in all 15 cases were studied in depth. These included: Argentina, Armenia, Chad, Ecuador, Honduras, Indonesia, Israel, Japan, Kazakhstan, Malaysia, Mozambique, Nigeria, Oman, the United Arab Emirates, and Zimbabwe. The case studies form the base of this book. Only Armenia, Israel, Japan, and Zimbabwe were selected for fuller discussion in the book itself. All the case studies are therefore discussed here more fully. This cases here should be read in conjunction with the book. In particular, the case study selection as well as data comparing cases with non-cases is discussed in the [Methods Appendix](/data/methods-appendix/) of the book and should be read before reading these cases.
+While many more cases are touched upon in the book manuscript, in all 15 cases were studied in depth. These included: Argentina, Armenia, Chad, Ecuador, Honduras, Indonesia, Israel, Japan, Kazakhstan, Malaysia, Mozambique, Nigeria, Oman, the United Arab Emirates, and Zimbabwe. The case studies form the base of this book. Only Armenia, Israel, Japan, and Zimbabwe were selected for fuller discussion in the book itself. All the case studies are therefore discussed here more fully. This cases here should be read in conjunction with the book. In particular, the case study selection as well as data comparing cases with non-cases is discussed in the [Methods Appendix](/case-studies/case-selection/) of the book and should be read before reading these cases.
 
 These case studies provide the background for the coding in Tables A6.6–9 in the book. They also provide the background for the discussion in Chapters 7 and 8 in particular.
 
@@ -90,7 +83,7 @@ of traceable effects of scorecard diplomacy on legislation, institutions, norms
 and practices. Each case study ends by discussing any factors that conditioned
 the influence of scorecard diplomacy.
 
-## References for case studies
+## References
 
 Alon, Gideon. 2002. “Report: 3,000 Women a Year Trapped in Sex Slave Industry.”
 In: Haaretz.
