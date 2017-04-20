@@ -61,6 +61,7 @@ MENUITEMS = [('Summary', '/summary/'),
              ('Human trafficking', '/human-trafficking/')]
 
 CASES = [('Case studies', '/case-studies/'),
+         ('Case selection and methodology', '/case-studies/case-selection/'),
          ('Argentina', '/case-studies/argentina/'),
          ('Armenia', '/case-studies/armenia/'),
          ('Chad', '/case-studies/chad/'),
@@ -78,11 +79,13 @@ CASES = [('Case studies', '/case-studies/'),
          ('Zimbabwe', '/case-studies/zimbabwe/')]
 
 SURVEY_MENU = [('Survey', '/survey/'),
+               ('Survey methods', '/survey/methods/'),
+               ('Survey data', '/survey/data/'),
+               ('“From the Trenches”', '/survey/article/'),
                ('Report for NGOs', '/survey/ngo-report/'),
                ('Raw summary', '/survey/summary-raw/'),
-               ('Survey invitation', '/survey/invitation/'),
                ('Original survey', '/survey/original-survey/'),
-               ('Survey data', '/survey/data/')]
+               ('Survey invitation', '/survey/invitation/')]
 
 DATA_MENU = [('Data', '/data/'),
              ('Methods appendix', '/data/methods-appendix/'),
