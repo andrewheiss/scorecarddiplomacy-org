@@ -17,4 +17,4 @@ participation rate of 43.5%. Because NGOs often work in multiple
 countries, we allowed respondents to answer a series of country-specific
 questions for up to five different countries, resulting in 561 country-organization responses.
 
-![Map of countries where NGOs work](/files/images/survey_work_map.png){.img-fluid}
+![Map of countries where NGOs work](/files/images/figureA1_1b_work_map.png)
