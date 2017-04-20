@@ -1,10 +1,23 @@
 {% extends "base.html" %}
+{% import "macros.html" as macros %}
 
 {% set page_class = 'data' %}
 {% set url = SITEURL + '/' + page.url %}
 
 {% block canonical_rel %}
     <link rel="canonical" href="{{ url }}">
+{% endblock %}
+
+{% block extra_head %}
+{%- if page.github == "True" %}
+    {{ macros.github_css() }}
+{% endif %}
+{% endblock %}
+
+{% block final_script %}
+{%- if page.github == "True" %}
+    {{ macros.github_js() }}
+{% endif %}
 {% endblock %}
 
 {% block content %}

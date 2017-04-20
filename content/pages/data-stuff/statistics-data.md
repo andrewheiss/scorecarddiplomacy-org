@@ -4,6 +4,7 @@ Modified: 2017-04-19 13:05:24
 Excerpt: Something
 Template: data
 Slug: data/statistics-data
+Github: True
 
 The code for creating all the project's figures, tables, and analysis is available in a [version-controlled repository at GitHub](https://github.com/andrewheiss/scorecard-diplomacy). Everything in the book can be recreated using [R](https://www.r-project.org/), preferably within [RStudio](https://www.rstudio.com/), since the code is structured as an RStudio project.
 
