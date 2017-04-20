@@ -12,6 +12,10 @@ Judith Kelley (PhD, Harvard) is the Kevin D. Gorter Professor of Public Policy a
 
 Kelley's work focuses on how states, international organizations and NGOs can promote domestic political reforms in problem states, and how international norms, laws and other governance tools influence state behavior. Her work addresses human rights and democracy, international election observation, and human trafficking. Past work has focused on the International Criminal Court, the European Union and other international organizations. Details on her election monitoring project are on the web at [Project on International Election Monitoring](https://sites.duke.edu/kelley/). The work behind “Scorecard Diplomacy: Grading States to Influence Their Reputation and Behavior,” was funded by a grant from the National Science Foundation and another from the Smith Richardson Foundation. Her work has been published by Princeton University Press, and in journals such as the American Political Science Review, the American Journal of Political Science, International Organization, International Studies Quarterly, and the Journal of Common Market Studies. Her book, [*Monitoring Democracy: When International Election Observation Works and Why It Often Fails*](http://press.princeton.edu/titles/9748.html) (Princeton 2012) was "One of Choice's Outstanding Academic Titles for 2013" and also received the Chadwick F. Alger Prize, which is awarded by the International Studies Association to recognize the "best book published in the previous calendar year on the subject of international organization and multilateralism.” 
 
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/V5tIWNa0uCE"></iframe>
+</div>
+
 ---
 
 ### Special thanks
