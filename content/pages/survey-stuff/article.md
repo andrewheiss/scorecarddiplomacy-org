@@ -1,4 +1,4 @@
-Title: “From the Trenches”
+Title: “From the Trenches” article
 Excerpt: Something
 Template: survey
 Slug: survey/article
