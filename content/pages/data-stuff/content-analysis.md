@@ -10,7 +10,7 @@ Many different sources were used for content analysis, including the annual [Tra
 
 Media stories and State Department cables were loaded into qualitative data analysis software. QDA Miner is required to view this analysis, and is accessible either for free with [QDA Miner Lite](https://provalisresearch.com/products/qualitative-data-analysis-software/freeware/) (free) or with the [full version](https://provalisresearch.com/products/qualitative-data-analysis-software/).
 
-Both cables and media stories were coded for reactions of officials to the annual TIP Report. The codes are explained in Chapter 4 in the book and can also be found in the [Methods Appendix](/files/pdfs/Judith%20Kelley%2C%20Scorecard%20Diplomacy%2C%20Methods%20Appendix.pdf).
+Both cables and media stories were coded for reactions of officials to the annual TIP Report. The codes are explained in Chapter 4 in the book and can also be found in the [Methods Appendix](/data/methods-appendix/).
 
 <div class="row" markdown=1>
 

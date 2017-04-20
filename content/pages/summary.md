@@ -29,7 +29,7 @@ Slug: summary
 
 **Appendices**
 
-- Methods Appendix ([download appendix](/files/pdfs/Judith%20Kelley%2C%20Scorecard%20Diplomacy%2C%20Methods%20Appendix.pdf))
+- Methods Appendix ([download appendix](/data/methods-appendix/))
 - Results Appendix
 
 </div>
