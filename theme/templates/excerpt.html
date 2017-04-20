@@ -1,0 +1,111 @@
+{% extends "base.html" %}
+
+{% set page_class = 'excerpt fix-navbar-jump' %}
+{% set url = SITEURL + '/' + page.url %}
+
+{% block canonical_rel %}
+    <link rel="canonical" href="{{ url }}">
+{% endblock %}
+
+{% block extra_head %}
+    <link href="/theme/js/jquery.tocify.css" rel="stylesheet">
+    <style type="text/css">
+    #toc {
+        margin: 30px 0 0 0;
+    }
+
+    @media (max-width: 767px) {
+      div.tocify {
+        width: 100%;
+        position: relative;
+        max-width: none;
+      }
+    }
+
+    .tocify {
+      border: 1px solid rgb(221, 221, 221);
+    }
+    .tocify ul, .tocify li {
+      line-height: 1.42857143;
+    }
+
+    .list-group.tocify {
+      padding: 0;
+      overflow: hidden;
+    }
+
+    .list-group.tocify .list-group {
+      margin-bottom: 0;
+    }
+
+    .list-group.tocify .list-group-item {
+      border-radius: 0;
+      border-width: 1px 0 0 0;
+    }
+
+    .list-group.tocify > .list-group-item:first-child {
+      border-top-width: 0;
+    }
+
+    .list-group.tocify > .list-group > .list-group-item {
+      padding-left: 15px;
+    }
+
+    .list-group.tocify > .list-group > .list-group > .list-group-item {
+      padding-left: 25px;
+    }
+
+    .tocify .list-group-item {
+      padding: 10px 15px;
+    }
+
+    .tocify-header .tocify-item {
+      text-indent: 0;
+    }
+
+    .tocify-subheader .tocify-item {
+      font-size: 0.90em;
+      text-indent: 0;
+    }
+
+    .tocify-subheader {
+      display: inline;
+    }
+
+    </style>
+{% endblock %}
+
+{% block content %}
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-sm-3">
+                <div id="toc" class="list-group"></div>
+            </div>
+            <div class="col-sm-9">
+                <h1>{{ page.title }}</h1>
+                {{ page.content }}
+            </div>
+        </div>
+
+    </div>
+{% endblock %}
+
+{% block final_script %}
+    <script src="/theme/js/jquery-ui.min.js"></script>
+    <script src="/theme/js/jquery.tocify.js"></script>
+    <script>
+        $(function() {
+            var toc = $("#toc").tocify({
+              selectors: "h2,h3,h4,h5",
+              theme: "bootstrap3",
+              context: ".col-sm-9",
+              extendPage: false,
+              hashGenerator: "pretty",
+              showAndHide: false,
+              scrollTo: 85
+            }).data("toc-tocify");
+        });
+    </script>
+{% endblock %}

@@ -58,6 +58,7 @@ MENUITEMS = [('Summary', '/summary/'),
              ('Case studies', '/case-studies/'),
              ('Data, code, and analysis', '/data/'),
              ('Global survey', '/survey/'),
+             ('Human trafficking', '/human-trafficking/'),
              ('Buy', '/buy/')]
 
 CASES = [('Case studies', '/case-studies/'),
