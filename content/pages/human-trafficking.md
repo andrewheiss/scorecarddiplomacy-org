@@ -9,7 +9,9 @@ Human trafficking is ASDF the main policy problem in the book ASDF STUFF HERE. B
 
 ---
 
-> Excerpt from Judith G. Kelley, *Scorecard Diplomacy: Grading State to Influence Their Reputation and Behavior*, (Cambridge University Press, 2017): 65–75.
+<div class="well">
+Excerpt from Judith G. Kelley, <em>Scorecard Diplomacy: Grading State to Influence Their Reputation and Behavior</em>, (Cambridge University Press, 2017): 65–75.
+</div>
 
 ## The Problem of Human Trafficking
 
