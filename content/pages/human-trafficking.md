@@ -5,12 +5,10 @@ Excerpt: Something
 Template: excerpt
 Slug: human-trafficking
 
-Human trafficking is ASDF the main policy problem in the book ASDF STUFF HERE. Below is an excerpt from *Scorecard Diplomacy*… etc. something something.
-
----
 
 <div class="well">
-Excerpt from Judith G. Kelley, <em>Scorecard Diplomacy: Grading State to Influence Their Reputation and Behavior</em>, (Cambridge University Press, 2017): 65–75.
+Excerpt from Judith G. Kelley, <em>Scorecard Diplomacy: Grading State to Influence Their Reputation and Behavior</em>, (Cambridge University Press, 2017): 65–75.  
+<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Photos <a href="https://www.un.org/apps/news/photostories_detail.asp?PsID=39">via the UN.</a><small>
 </div>
 
 ## The Problem of Human Trafficking
@@ -22,6 +20,8 @@ Human trafficking is the sale and exploitation of human beings. It differs from 
 > [T]he recruitment, transportation, transfer, harbouring or receipt of persons, by means of the threat or use of force or other forms of coercion, of abduction, of fraud, of deception, of the abuse of power or of a position of vulnerability or of the giving or receiving of payments or benefits to achieve the consent of a person having control over another person, for the purpose of exploitation. Exploitation shall include, at a minimum, the exploitation of the prostitution of others or other forms of sexual exploitation, forced labour or services, slavery or practices similar to slavery, servitude or the removal of organs.
 
 In some ways the problem is old, linked to traditional forms of slavery going back thousands of years to a time when such exploitation was normal and even legal. The terms “human trafficking” or “trafficking in persons” apply to the modern and more varied and hidden forms of severe exploitation of human beings.
+
+![Child searching through rubbish in a river, Bangkok, Thailand](/files/images/c0739.jpg "Child searching through rubbish in a river, Bangkok, Thailand"){.pull-right}
 
 The scope of the modern problem is difficult to assess but clearly large. The Palermo Protocol notes that trafficking can be for sexual exploitation or forced labor or organ removal. It is commonly understood to involve forced labor, bonded labor, child marriage, forced marriage, or the use of children in begging, warfare, prostitution, and much more. The UN Office on Drugs and Crime (UNODC) notes that of all the detected cases, nearly 40 percent are labor- related. Labor trafficking affects workers in sectors such as agriculture, domestic service, hospitality, construction, and garment and shoe production. Some trafficking, like Uzbekistan’s forcible cotton production, is government- sponsored. About half of all victims are thought to be women, one-fifth girls, and 12 percent boys, while about 72 percent of traffickers are male.[^5]
 
@@ -47,11 +47,15 @@ Source: 2007 and 2016 TIP Reports, section on “Global Law Enforcement Data.”
 
 Scorecard diplomacy is a symbolic exercise that only works if it is grounded in a global normative or regulatory milieu such that violations or poor performance are widely considered undesirable. Global norms provide the mirror and the standards against which actors assess reputation.
 
+![Prostitution at Malecon, Havana, Cuba](/files/images/c0365.jpg "Prostitution at Malecon, Havana, Cuba"){.pull-right}
+
 In the area of human trafficking, such a global norm is now widely shared by multiple actors, including an array of intergovernmental organizations. However, for many years the world lacked an internationally accepted definition of trade and trafficking in human beings. Smuggling and illegal migration were lumped together with trafficking—a confusion still perpetuated by the media. Although trafficking has clear links to slavery, from the perspective of modern national criminal justice, human trafficking was a new crime lacking a proper legal framework. Over the last two decades, an international legal consensus has emerged on the nature of the “trafficking problem.”[^10] Even as implementation remains inadequate, states are increasingly accepting that it is their moral and legal responsibility to punish traffickers and protect victims. The emergence of this global consensus forms the essential background for anti- TIP scorecard diplomacy.
 
 Anti-trafficking efforts date back to the anti-slavery movement, but the modern anti-trafficking regime is more recent.[^11] The precursors include various world conferences on women in the 1980s and 1990s, which framed women’s rights as human rights and focused attention on violence against women.[^12] The 1995 World Conference on Women in Beijing called for action against trafficking in women and children. For many years the issue of human trafficking had been framed around sexual exploitation, but in Beijing, forced labor and forced marriages were also included.[^13]
 
 Meanwhile rising concerns about transnational crime led the UN General Assembly to ask the Commission on Crime Prevention and Criminal Justice to analyze the incidence of various transnational organized criminal activities.[^14] The Assembly established an ad hoc committee to draft a multilateral protocol against transnational organized crime in 1998. Prompted largely by NGOs and faced with a rising incidence of human trafficking, poor domestic legislation and an inadequate international legal system, the issue of human trafficking was also making its way into the convention.
+
+![Child porter in a stone quarry, Nepal](/files/images/c0912.jpg "Child porter in a stone quarry, Nepal"){.pull-left}
 
 The topic of human trafficking also heated up in the US during the 1990s, propelled by an unusual coalition of feminists and religious conservatives. Efforts to fight the “moral scourge” of human trafficking found cross-party appeal and received broad support.[^15] After first being introduced by Representative Chris Smith (R-NJ) in 1998, on October 18, 2000 the Trafficking Victims Protection Act (TVPA) became the backbone of the US anti-trafficking policy abroad.[^16] While the US domestic efforts to pass the TVPA gained momentum, the efforts to extend these efforts globally also got underway. The US quickly dominated the global policy arena and took a leading role in negotiations over the protocol and in the development of the norms embedded in the protocol.[^17] On Women’s Day, March 1998, US President Clinton referenced the “ 3Ps” that eventually made it into the protocol: to prevent trafficking, protect victims of trafficking, and prosecute traffickers.[^18] Later that year during the development of the proposed convention, the US introduced a resolution calling for a protocol on trafficking in women and children.[^19] After the resolution was adopted, the US and Argentina introduced the draft protocol.[^20] In November 2000 the Assembly adopted the Palermo Protocol to Prevent, Suppress and Punish Trafficking in Persons (Palermo Protocol) to the Convention against Transnational Organized Crime and opened it to signature from December 12 to December 15.[^21] The protocol entered into force on September 29, 2003.
 
