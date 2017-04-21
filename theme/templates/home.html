@@ -15,6 +15,11 @@
 
         .sd-masthead {
             background-color: #ED6C29;
+            background: url(/files/images/background.jpg) no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
             padding: 75px 0;
             color: #fff;
         }
@@ -24,12 +29,18 @@
         }
 
         .sd-masthead h1 {
-            font-size: 70px;
+            font-size: 80px;
             margin-top: 0;
         }
 
         .sd-masthead h2 {
             margin-top: 0;
+        }
+
+        .sd-title {
+            background: rgba(0, 0, 0, 0.75) none;
+            text-align: center;
+            padding: 20px;
         }
 
         .drop-shadow {
@@ -55,10 +66,7 @@
     <main class="sd-masthead">
         <div class="container">
             <div class="row">
-                <div class="col-sm-3">
-                    <img src="/files/images/scorecard_diplomacy_cover.jpg" class="img-responsive drop-shadow">
-                </div>
-                <div class="col-sm-9">
+                <div class="sd-title col-sm-8 col-sm-offset-2">
                     <h1>Scorecard Diplomacy</h1>
                     <h3>By Judith G. Kelley</h3>
                 </div>
