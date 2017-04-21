@@ -8,7 +8,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = ''
+SITEURL = 'http://www.scorecarddiplomacy.org'
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
