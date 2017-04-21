@@ -52,12 +52,12 @@ CATEGORIES_SAVE_AS = ''
 # ------------
 # Site items
 # ------------
-MENUITEMS = [('Summary', '/summary/'),
+MENUITEMS = [('About', '/about/'),
              ('Author', '/author/'),
              ('Press', '/press/'),
              ('Case studies', '/case-studies/'),
-             ('Data, code, and analysis', '/data/'),
-             ('Global survey', '/survey/'),
+             ('Data', '/data/'),
+             ('Survey', '/survey/'),
              ('Human trafficking', '/human-trafficking/')]
 
 CASES = [('Case studies', '/case-studies/'),
