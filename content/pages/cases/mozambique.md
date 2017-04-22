@@ -4,13 +4,6 @@ Template: case
 Slug: case-studies/mozambique
 PDF: /files/pdfs/Case%20study%20-%20Mozambique.pdf
 
----
-
-**Contents**
-
-[TOC]
-
----
 
 The collaboration between the United States and the government has been
 constructive. Tracking developments on domestic anti-TIP legislation shows the

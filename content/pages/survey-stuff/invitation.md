@@ -11,6 +11,8 @@ Slug: survey/invitation
 
 ![TIP banner](/files/images/tip_banner.png){.center-block}
 
+&nbsp;
+
 Hello,
 
 I am a professor at Duke University in the United States and I am conducting research about human trafficking. As you know, it's really difficult to obtain good information in this area, and I'm hoping you might be willing to help me out by sharing some insights about the work that `organization_name` has done in the past 10 years.
@@ -26,4 +28,4 @@ If you feel unqualified to answer the questions, could you please let me know if
 Sincerely,
 
 Judith Kelley  
-{E-mail signature}
+`{E-mail signature}`

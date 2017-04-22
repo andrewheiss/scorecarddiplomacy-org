@@ -4,13 +4,6 @@ Template: case
 Slug: case-studies/honduras
 PDF: /files/pdfs/Case%20study%20-%20Honduras.pdf
 
----
-
-**Contents**
-
-[TOC]
-
----
 
 *Honduras illustrates the difficulty of gaining the attention of a government
 in a country where other problems dwarf the trafficking issue and where

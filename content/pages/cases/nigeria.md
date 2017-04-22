@@ -4,13 +4,6 @@ Template: case
 Slug: case-studies/nigeria
 PDF: /files/pdfs/Case%20study%20-%20Nigeria.pdf
 
----
-
-**Contents**
-
-[TOC]
-
----
 
 In Nigeria, pressure from the scorecard diplomacy has motivated the government
 to improve its reputation on TIP. Nigeria was included in the very first 2001

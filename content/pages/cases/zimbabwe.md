@@ -4,13 +4,6 @@ Template: case
 Slug: case-studies/zimbabwe
 PDF: /files/pdfs/Case%20study%20-%20Zimbabwe.pdf
 
----
-
-**Contents**
-
-[TOC]
-
----
 
 The US had very limited success in producing anti-TIP progress in Zimbabwe. The
 US’s poor relationship with the Zimbabwean government, combined with the GOZ’s

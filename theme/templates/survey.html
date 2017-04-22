@@ -34,6 +34,13 @@
             </div>
             <div class="col-sm-9">
                 <h1>{{ page.title }}</h1>
+                {% if page.toc and page.include_toc != "False" %}
+                <p><strong>Contents</strong></p>
+                <nav class="toc">
+                {{ page.toc }}
+                </nav>
+                <hr>
+                {% endif %}
                 {{ page.content }}
             </div>
         </div>

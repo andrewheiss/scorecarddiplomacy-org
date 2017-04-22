@@ -4,13 +4,6 @@ Template: case
 Slug: case-studies/united-arab-emirates
 PDF: /files/pdfs/Case%20study%20-%20United%20Arab%20Emirates.pdf
 
----
-
-**Contents**
-
-[TOC]
-
----
 
 The UAE is a good example of the motivating power of public monitoring and
 grading. Scorecard diplomacy has proved effective in the United Arab Emirates,

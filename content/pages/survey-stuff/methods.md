@@ -3,11 +3,6 @@ Excerpt: Something
 Template: survey
 Slug: survey/methods
 
-**Contents**
-
-[TOC]
-
----
 
 <div class="well">
 

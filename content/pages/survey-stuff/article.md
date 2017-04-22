@@ -23,7 +23,7 @@ A free pre-print version of the article is accessible below.
 “From the Trenches” article</a></p>
 </div>
 
-[![NGO article thumbnail][2]{.center-block .img-thumbnail}][1]
+[![NGO article thumbnail][2]][1]
 
 [1]: /files/pdfs/Heiss%20and%20Kelley%2C%20From%20the%20Trenches.pdf
-[2]: /files/images/pdf-ngo-article.png (Download PDF)
+[2]: /files/images/pdf-ngo-article.png "Download PDF" {.center-block .img-thumbnail}

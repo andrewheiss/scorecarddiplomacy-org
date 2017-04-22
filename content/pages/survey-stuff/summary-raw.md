@@ -18,7 +18,7 @@ This summary was generated with code available at <https://github.com/andrewheis
 Raw summary</a></p>
 </div>
 
-[![Raw report thumbnail][2]{.center-block .img-thumbnail}][1]
+[![Raw report thumbnail][2]][1]
 
 [1]: /files/pdfs/Report%20raw%20summary.pdf
-[2]: /files/images/pdf-raw-report.png (Download PDF)
+[2]: /files/images/pdf-raw-report.png "Download PDF" {.center-block .img-thumbnail}

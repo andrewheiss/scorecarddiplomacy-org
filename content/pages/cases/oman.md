@@ -4,13 +4,6 @@ Template: case
 Slug: case-studies/oman
 PDF: /files/pdfs/Case%20study%20-%20Oman.pdf
 
----
-
-**Contents**
-
-[TOC]
-
----
 
 Because Oman was so concerned with its image, the US was successful in bringing
 attention to trafficking and bringing about legal changes. Meetings occurred at

@@ -4,20 +4,11 @@ Template: case
 Slug: case-studies/case-selection
 
 
-**Contents**
-
-[TOC]
-
----
-
 <div class="well">
-
 <p>Excerpt from Judith G. Kelley, <em>Scorecard Diplomacy: Grading State to Influence Their Reputation and Behavior</em>, (Cambridge University Press, 2017): 285–90.</p>
-
-<a href="/files/pdfs/Judith%20Kelley%2C%20Scorecard%20Diplomacy%2C%20Methods%20Appendix.pdf" class="btn btn-primary">
+<p><a href="/files/pdfs/Judith%20Kelley%2C%20Scorecard%20Diplomacy%2C%20Methods%20Appendix.pdf" class="btn btn-primary">
 <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;
-Methods appendix</a>
-
+Methods appendix</a></p>
 </div>
 
 Drawing on the interviews and the document analysis, over 15 case studies were crafted to systematically examine evidence for the steps in the scorecard diplomacy cycle to analyze the likelihood of causality between US efforts and observed outcomes.
@@ -51,15 +42,14 @@ Table A1.5 overviews the basic characteristics of the chosen cases, including th
 | Zimbabwe   |                            38 (1%)                             |                      2003 (2002)                      |                  2–3                   |                 Partial (2014)                 |                     3.55                     |                              2.44                             |
 
 <div class="well">
-<em>Table A1.5</em>: Overview of case study attributes
-</div>
+<p><em>Table A1.5</em>: Overview of case study attributes</p>
 
 NGO activity mean = 2.90, range 0–9; IGO activity mean = 0.81, range 0–4  
-<sup>†</sup> WL: Watch List  
-<sup>\*</sup> Partial indicates some covering laws that did not fully meet the UN Trafficking protocol criteria  
-<sup>\*\*</sup> Based on author's data calculated on average mentions in the annual TIP Reports  
-<sup>\#</sup> One in 2003
-
+^†^ WL: Watch List<br>
+^\*^ Partial indicates some covering laws that did not fully meet the UN Trafficking protocol criteria<br>
+^\*\*^ Based on author's data calculated on average mentions in the annual TIP Reports<br>
+^\#^ One in 2003
+</div>
 
 ### Comparison of Case Study Country Attributes with Non-Case Study Countries
 
@@ -84,8 +74,6 @@ A comparison of policy progress in the case studies versus the rest of the sampl
 | Ratification of 2000 TIP protocol          |         0.8          |      0.791      |  0.00915   |                 No                 |
 
 <div class="well"><em>Table A1.6</em>: Comparison of case study countries and other countries in years they are included in the TIP Report</div>
-
-&nbsp;
 
 How do the selected cases fare in terms of improvements compared to the non-selected cases? Figure A1.4 relies on data from the “3P Anti-Trafficking Policy Index”[^5] and shows that the countries sampled have overall had greater improvements than the non-sampled countries, partly because they were significantly worse to begin with and because several of the non-sampled countries just started out very high and had little room for improvement. This is consistent with the above and with the desire to be able to learn about the active ingredients of scorecard diplomacy. However, the non-sampled countries have also improved. Thus the chosen cases over-represent improvements, but do not misrepresent the general trend.
 

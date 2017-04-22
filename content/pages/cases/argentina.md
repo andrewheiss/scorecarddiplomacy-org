@@ -5,13 +5,6 @@ Slug: case-studies/argentina
 PDF: /files/pdfs/Case%20study%20-%20Argentina.pdf
 Cite: True
 
----
-
-**Contents**
-
-[TOC]
-
----
 
 The Argentine case demonstrates how controversial TIP legislation can be and
 that getting is passed is by no means an easy accomplishment. It also

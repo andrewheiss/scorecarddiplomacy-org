@@ -96,20 +96,20 @@ DATA_MENU = [('Data', '/data/'),
 DEFAULT_PAGINATION = False
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['pelican-bootstrapify']
+PLUGINS = ['pelican-bootstrapify', 'pandoc_reader', 'extract_toc']
 
-MARKDOWN = {
-    'extension_configs': {
-        'markdown.extensions.smarty': {},
-        'markdown.extensions.extra': {},
-        'markdown.extensions.footnotes': {},
-        'markdown.extensions.meta': {},
-        'markdown.extensions.toc': {},
-        'markdown.extensions.codehilite': {'css_class': 'codehilite'},
-        'markdown.extensions.headerid': {'level': 1}
-    },
-    'output_format': 'html5',
-}
+PANDOC_ARGS = [
+    '-t', 'html5',
+    '--base-header-level=1',
+    '--section-divs',  # wrap heading blocks with <section>
+    '--table-of-contents',
+    '--template=theme/templates/pandoc-template-toc'
+]
+
+PANDOC_EXTENSIONS = [
+    '-markdown_in_html_blocks',
+    '+raw_html'
+]
 
 
 # ---------------

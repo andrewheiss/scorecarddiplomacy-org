@@ -4,13 +4,6 @@ Template: case
 Slug: case-studies/kazakhstan
 PDF: /files/pdfs/Case%20study%20-%20Kazakhstan.pdf
 
----
-
-**Contents**
-
-[TOC]
-
----
 
 The case of Kazakhstan highlights the importance of reputational concerns in
 providing an opportunity for scorecard diplomacy to be influential. Although

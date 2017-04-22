@@ -4,13 +4,6 @@ Template: case
 Slug: case-studies/indonesia
 PDF: /files/pdfs/Case%20study%20-%20Indonesia.pdf
 
----
-
-**Contents**
-
-[TOC]
-
----
 
 The US embassy worked closely with a broad set of actors such as the police,
 key ministries, NGOs, and the legislature. The relationship with the police was

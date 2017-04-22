@@ -11,7 +11,7 @@ The book's [Methods Appendix](/files/pdfs/Judith%20Kelley%2C%20Scorecard%20Diplo
 Methods Appendix</a></p>
 </div>
 
-[![Methods Appendix thumbnail][2]{.center-block .img-thumbnail}][1]
+[![Methods Appendix thumbnail][2]][1]
 
 [1]: /files/pdfs/Judith%20Kelley%2C%20Scorecard%20Diplomacy%2C%20Methods%20Appendix.pdf
-[2]: /files/images/pdf-methods-appendix.png (Download PDF)
+[2]: /files/images/pdf-methods-appendix.png "Download PDF" {.center-block .img-thumbnail} 
