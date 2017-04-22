@@ -52,7 +52,7 @@ CATEGORIES_SAVE_AS = ''
 # ------------
 # Site items
 # ------------
-MENUITEMS = [('About', '/about/'),
+MENUITEMS = [('Contents', '/contents/'),
              ('Author', '/author/'),
              ('Press', '/press/'),
              ('Case studies', '/case-studies/'),
