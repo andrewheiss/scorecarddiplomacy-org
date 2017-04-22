@@ -1,0 +1,157 @@
+body {
+    padding-top: 70px;  /* For fixed top navbar */
+    margin-bottom: 110px;  /* Margin bottom by footer height */
+}
+
+
+/* Sticky footer styles */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.footer {
+    position: absolute;
+    margin-top: 20px;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+}
+
+body > .footer-container {
+    padding: 80px 15px 0;
+}
+
+.footer-container .text-muted {
+    margin: 10px 0;
+    font-size: 0.8em;
+}
+
+.footer > .footer-container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+/* End sticky footer styles */
+
+
+/* Navbar stuff */
+/* The fixed navbar along the top covers up anchors when jumping around
+the page. This manually adds negative margin and positive padding to
+fix that. */
+.fix-navbar-jump h2, .fix-navbar-jump h3 {
+    padding-top: 60px;
+    margin-top: -50px;
+}
+
+#navbar .nav {
+    font-size: 0.85em;
+}
+
+.navbar {
+    border-bottom: none;
+}
+
+.navbar-default {
+    background-color: #ED6C29;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav>li>a:focus {
+    color: #F09D72;
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #ffffff;
+    background-color: #F09D72;
+}
+
+/* Deal with hamburger menu */
+.navbar-default .navbar-toggle {
+    border-color: #ffffff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #F09D72;
+}
+/* End navbar stuff */
+
+
+/* Miscelleanous tweaks */
+/* padding-bottom is the percent value of height/width. So for an
+8.5x11 PDF, it is 129.44%. But even then, it's a little too big. 100%
+works great. */
+.embed-responsive-letter {
+    padding-bottom: 100%;
+}
+
+/* Bootstrap's blockquotes are huge by default. This shrinks them. */
+blockquote {
+    font-size: 1em;
+}
+
+/* Pandoc includes captions by default, but they don't play well with the .img-responsive class */
+figcaption {
+    display: none;
+}
+
+/* Shrink footnotes */
+.footnotes {
+    font-size: 0.8em;
+}
+
+/* No space after last <p> in .well */
+.well p:last-child {
+    margin-bottom: 0; 
+}
+
+/* Break long links in case study citation box and footnotes */
+.case-cite a, .footnotes a {
+    word-wrap: break-word;
+}
+
+/* Add space above sidebar to match the space above .sub-nav */
+.fake-space-above {
+    margin-top: 30px;
+}
+
+img.pull-left {
+    padding-right: 15px;
+}
+
+img.pull-right {
+    padding-left: 15px;
+}
+/* End miscelleanous tweaks */
+
+
+/* Left sidebar stuff */
+.sub-nav {
+    margin-top: 30px;
+}
+
+@media screen and (min-width: 768px) {
+    .left-navigation .collapse {
+        display:block;
+    }  
+}
+
+@media all and (min-width:992px) {
+    .collapse {
+        display: block
+    }
+}
+/* End left sidebar stuff */
