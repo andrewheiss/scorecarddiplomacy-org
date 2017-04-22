@@ -33,17 +33,22 @@
 
         <div class="row">
             <div class="col-sm-3">
-                <div class="list-group sub-nav">
-                    {% for title, link in CASES %}
-                    <a href="{{ link }}" class="list-group-item list-group-item-action {% if link | get_slug == page.slug or 'case-studies/' + link | get_slug == page.slug %} active{% endif %}">{{ title }}</a>
-                    {% endfor %}
+                <div class="left-navigation">
+                    <button class="btn btn-primary collapse-toggle visible-xs btn-block btn-left-sidebar" type="button" data-toggle="collapse" data-parent="left-navigation" data-target="#side-category-menu-collapse" aria-haspopup="true" aria-expanded="false">
+                        <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>&nbsp;Case studies menu
+                    </button>
+                    <div class="list-group collapse sub-nav" id="side-category-menu-collapse">
+                        {% for title, link in CASES %}
+                        <a href="{{ link }}" class="list-group-item list-group-item-action {% if link | get_slug == page.slug or 'case-studies/' + link | get_slug == page.slug %} active{% endif %}">{{ title }}</a>
+                        {% endfor %}
+                    </div>
                 </div>
             </div>
             <div class="col-sm-9">
                 <h1>{{ page.title }}</h1>
 
                 {% if page.pdf %}
-                <div class="well">
+                <div class="well case-cite">
                 <p><em>How to cite:</em> Judith G. Kelley. “Case Study Supplement: A Closer Look at Outcomes. A Companion to Scorecard Diplomacy: Grading States to Influence their Reputation and Behavior, published by Cambridge University Press, 2017.” Published online April 2017 at <a href="{{ url }}">{{ url }}</a>.</p>
 
                 <a href="{{ page.pdf }}" class="btn btn-primary">

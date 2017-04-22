@@ -101,7 +101,14 @@
 
         <div class="row">
             <div class="col-sm-3">
-                <div id="toc" class="list-group"></div>
+                <div class="left-navigation">
+                    <button class="btn btn-primary collapse-toggle visible-xs btn-block btn-left-sidebar" type="button" data-toggle="collapse" data-parent="left-navigation" data-target="#side-category-menu-collapse" aria-haspopup="true" aria-expanded="false">
+                        <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>&nbsp;Page contents
+                    </button>
+                    <div class="list-group collapse sub-nav" id="side-category-menu-collapse">
+                        <div id="toc" class="list-group"></div>
+                    </div>
+                </div>
             </div>
             <div class="col-sm-9">
                 <h1>{{ page.title }}</h1>
