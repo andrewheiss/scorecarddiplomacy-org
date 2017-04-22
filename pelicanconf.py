@@ -14,8 +14,7 @@ TIMEZONE = 'America/New_York'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 DEFAULT_LANG = 'en'
 
-TYPOGRIFY = True  # Nice typographic things
-TYPOGRIFY_IGNORE_TAGS = ['h1']
+TYPOGRIFY = False
 
 
 # ---------------
@@ -101,6 +100,7 @@ PLUGINS = ['pelican-bootstrapify', 'pandoc_reader', 'extract_toc']
 
 PANDOC_ARGS = [
     '-t', 'html5',
+    '--smart',
     '--base-header-level=1',
     '--section-divs',  # wrap heading blocks with <section>
     '--table-of-contents',
