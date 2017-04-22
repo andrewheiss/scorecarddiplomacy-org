@@ -5,8 +5,8 @@ Slug: human-trafficking
 
 
 <div class="well">
-Excerpt from Judith G. Kelley, <em>Scorecard Diplomacy: Grading State to Influence Their Reputation and Behavior</em>, (Cambridge University Press, 2017): 65–75.  
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Photos <a href="https://www.un.org/apps/news/photostories_detail.asp?PsID=39">via the UN.</a><small>
+<p>Excerpt from Judith G. Kelley, <em>Scorecard Diplomacy: Grading State to Influence Their Reputation and Behavior</em>, (Cambridge University Press, 2017): 65–75.</p>
+<p><small>Photos <a href="https://www.un.org/apps/news/photostories_detail.asp?PsID=39">via the UN.</a><small></p>
 </div>
 
 ## The Problem of Human Trafficking
