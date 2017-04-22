@@ -1,6 +1,6 @@
 Title: News and publicity
 Excerpt: Something
-Template: page
+Template: page-no-title
 Slug: press
 
 <div class="row" markdown=1>
