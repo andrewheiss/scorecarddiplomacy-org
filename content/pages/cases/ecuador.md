@@ -1,5 +1,4 @@
 Title: Ecuador
-Excerpt: Something
 Template: case
 Slug: case-studies/ecuador
 PDF: /files/pdfs/Case%20study%20-%20Ecuador.pdf

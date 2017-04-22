@@ -1,5 +1,4 @@
 Title: Armenia
-Excerpt: Something
 Template: case
 Slug: case-studies/armenia
 PDF: /files/pdfs/Case%20study%20-%20Armenia.pdf

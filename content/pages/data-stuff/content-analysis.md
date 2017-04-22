@@ -1,5 +1,4 @@
 Title: Content analysis
-Excerpt: Something
 Template: data
 Slug: data/content-analysis
 

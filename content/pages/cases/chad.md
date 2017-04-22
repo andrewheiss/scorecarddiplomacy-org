@@ -1,5 +1,4 @@
 Title: Chad
-Excerpt: Something
 Template: case
 Slug: case-studies/chad
 PDF: /files/pdfs/Case%20study%20-%20Chad.pdf

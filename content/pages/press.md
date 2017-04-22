@@ -1,5 +1,4 @@
 Title: News and publicity
-Excerpt: Something
 Template: page-no-title
 Slug: press
 

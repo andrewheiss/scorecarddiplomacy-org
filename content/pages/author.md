@@ -1,5 +1,4 @@
 Title: About Judith Kelley
-Excerpt: Something
 Template: page-no-title
 Slug: author
 

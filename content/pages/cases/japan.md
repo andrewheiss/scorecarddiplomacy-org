@@ -1,5 +1,4 @@
 Title: Japan
-Excerpt: Something
 Template: case
 Slug: case-studies/japan
 PDF: /files/pdfs/Case%20study%20-%20Japan.pdf

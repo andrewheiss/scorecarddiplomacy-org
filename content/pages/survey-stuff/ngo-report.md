@@ -1,5 +1,4 @@
 Title: Report for NGO respondents
-Excerpt: Something
 Template: survey
 Slug: survey/ngo-report
 

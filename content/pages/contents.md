@@ -1,5 +1,4 @@
 Title: Contents
-Excerpt: Something
 Template: page-no-title
 Slug: contents
 

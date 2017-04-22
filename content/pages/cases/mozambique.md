@@ -1,5 +1,4 @@
 Title: Mozambique
-Excerpt: Something
 Template: case
 Slug: case-studies/mozambique
 PDF: /files/pdfs/Case%20study%20-%20Mozambique.pdf

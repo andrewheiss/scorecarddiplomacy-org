@@ -1,5 +1,4 @@
 Title: Kazakhstan
-Excerpt: Something
 Template: case
 Slug: case-studies/kazakhstan
 PDF: /files/pdfs/Case%20study%20-%20Kazakhstan.pdf

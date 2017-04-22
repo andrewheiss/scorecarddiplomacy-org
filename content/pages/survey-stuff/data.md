@@ -1,5 +1,4 @@
 Title: Survey data
-Excerpt: Something
 Template: survey
 Slug: survey/data
 Github: True

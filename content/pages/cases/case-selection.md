@@ -1,5 +1,4 @@
 Title: Case selection and methodology
-Excerpt: Something
 Template: case
 Slug: case-studies/case-selection
 

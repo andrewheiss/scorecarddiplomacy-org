@@ -1,5 +1,4 @@
 Title: Statistical analysis and data
-Excerpt: Something
 Template: data
 Slug: data/statistics-data
 Github: True

@@ -1,5 +1,4 @@
 Title: Raw summary of survey
-Excerpt: Something
 Template: survey
 Slug: survey/summary-raw
 Github: True

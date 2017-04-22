@@ -1,5 +1,4 @@
 Title: Zimbabwe
-Excerpt: Something
 Template: case
 Slug: case-studies/zimbabwe
 PDF: /files/pdfs/Case%20study%20-%20Zimbabwe.pdf

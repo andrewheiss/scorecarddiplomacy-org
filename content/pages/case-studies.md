@@ -1,5 +1,4 @@
 Title: Case studies
-Excerpt: Something
 Template: case
 Slug: case-studies
 PDF: /files/pdfs/Case%20study%20supplement.pdf

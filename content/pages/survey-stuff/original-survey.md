@@ -1,5 +1,4 @@
 Title: Original survey
-Excerpt: Something
 Template: survey
 Slug: survey/original-survey
 Include_TOC: False

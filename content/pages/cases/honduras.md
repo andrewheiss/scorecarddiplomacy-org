@@ -1,5 +1,4 @@
 Title: Honduras
-Excerpt: Something
 Template: case
 Slug: case-studies/honduras
 PDF: /files/pdfs/Case%20study%20-%20Honduras.pdf

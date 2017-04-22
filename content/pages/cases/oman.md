@@ -1,5 +1,4 @@
 Title: Oman
-Excerpt: Something
 Template: case
 Slug: case-studies/oman
 PDF: /files/pdfs/Case%20study%20-%20Oman.pdf

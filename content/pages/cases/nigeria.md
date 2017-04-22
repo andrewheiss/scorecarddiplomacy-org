@@ -1,5 +1,4 @@
 Title: Nigeria
-Excerpt: Something
 Template: case
 Slug: case-studies/nigeria
 PDF: /files/pdfs/Case%20study%20-%20Nigeria.pdf

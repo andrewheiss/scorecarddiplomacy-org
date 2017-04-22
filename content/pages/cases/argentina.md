@@ -1,5 +1,4 @@
 Title: Argentina
-Excerpt: Something
 Template: case
 Slug: case-studies/argentina
 PDF: /files/pdfs/Case%20study%20-%20Argentina.pdf

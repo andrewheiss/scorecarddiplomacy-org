@@ -1,5 +1,4 @@
 Title: United Arab Emirates
-Excerpt: Something
 Template: case
 Slug: case-studies/united-arab-emirates
 PDF: /files/pdfs/Case%20study%20-%20United%20Arab%20Emirates.pdf

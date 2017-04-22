@@ -1,5 +1,4 @@
 Title: Methods appendix
-Excerpt: Something
 Template: data
 Slug: data/methods-appendix
 

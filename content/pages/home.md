@@ -1,5 +1,4 @@
 Title: Scorecard Diplomacy
-Excerpt: Something
 Template: home
 save_as: index.html
 

@@ -1,5 +1,4 @@
 Title: Global survey of anti-trafficking NGOs
-Excerpt: Something
 Template: survey
 Slug: survey
 

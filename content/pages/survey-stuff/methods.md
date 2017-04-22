@@ -1,5 +1,4 @@
 Title: Survey methods
-Excerpt: Something
 Template: survey
 Slug: survey/methods
 

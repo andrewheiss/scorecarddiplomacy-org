@@ -1,5 +1,4 @@
 Title: Survey e-mail invitation
-Excerpt: Something
 Template: survey
 Slug: survey/invitation
 

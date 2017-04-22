@@ -1,5 +1,4 @@
 Title: Israel
-Excerpt: Something
 Template: case
 Slug: case-studies/israel
 PDF: /files/pdfs/Case%20study%20-%20Israel.pdf

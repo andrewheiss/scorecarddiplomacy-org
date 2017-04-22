@@ -1,5 +1,4 @@
 Title: Indonesia
-Excerpt: Something
 Template: case
 Slug: case-studies/indonesia
 PDF: /files/pdfs/Case%20study%20-%20Indonesia.pdf

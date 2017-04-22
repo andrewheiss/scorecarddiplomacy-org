@@ -1,5 +1,4 @@
 Title: Additional analysis
-Excerpt: Something
 Template: data
 Slug: data/additional-analysis
 

@@ -1,5 +1,4 @@
 Title: Human Trafficking
-Excerpt: Something
 Template: excerpt
 Slug: human-trafficking
 
