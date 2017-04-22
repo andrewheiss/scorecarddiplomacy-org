@@ -1,12 +1,31 @@
 {% extends "base.html" %}
 {% import "macros.html" as macros %}
 
-{% set page_class = 'survey fix-navbar-jump' %}
+{% set title = page.title | striptags | escape %}
+{% set full_title = title + ' | Survey | ' + SITENAME %}
+{% block title %}{{ full_title }}{% endblock title %}
+
 {% set url = SITEURL + '/' + page.url %}
+
+{% set page_class = 'survey fix-navbar-jump' %}
+
+{%- if page.description %}
+    {% set description = page.description %}
+{% else %}
+    {% set description = DESCRIPTION %}
+{% endif %}
 
 {% block canonical_rel %}
     <link rel="canonical" href="{{ url }}">
 {% endblock %}
+
+{% block meta_tags %}
+    {{ macros.meta_description(description) }}
+{% endblock meta_tags %}
+
+{% block social_meta %}
+    {{ macros.open_graph(full_title, url, description, SITEURL) }}
+{% endblock social_meta %}
 
 {% block extra_head %}
 {%- if page.github == "True" %}

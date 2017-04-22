@@ -6,6 +6,7 @@
 AUTHOR = 'Judith Kelley'
 SITENAME = 'Scorecard Diplomacy'
 SITEURL = ''
+DESCRIPTION = 'Scorecard Diplomacy by Judith Kelley shows that public grades can evoke countries’ concerns about their reputations and motivate them to address thorny problems'
 
 PATH = 'content'
 

@@ -1,11 +1,30 @@
 {% extends "base.html" %}
+{% import "macros.html" as macros %}
+
+{% set title = SITENAME %}
+{% block title %}{{ SITENAME }}{% endblock title %}
+
+{% set url = SITEURL + '/' + page.url %}
 
 {% set page_class = 'home' %}
-{% set url = SITEURL + '/' + page.url %}
+
+{%- if page.description %}
+    {% set description = page.description %}
+{% else %}
+    {% set description = DESCRIPTION %}
+{% endif %}
 
 {% block canonical_rel %}
     <link rel="canonical" href="{{ url }}">
 {% endblock %}
+
+{% block meta_tags %}
+    {{ macros.meta_description(description) }}
+{% endblock meta_tags %}
+
+{% block social_meta %}
+    {{ macros.open_graph(title, url, description, SITEURL) }}
+{% endblock social_meta %}
 
 {% block extra_head %}
     <style type="text/css">

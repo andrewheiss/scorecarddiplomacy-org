@@ -1,3 +1,21 @@
+{% macro open_graph(title, url, description, siteurl) -%}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ title }}">
+    <meta name="twitter:description" content="{{ description }}">
+    <meta name="twitter:image" content="{{ siteurl }}/theme/scorecard_diplomacy_og.jpg">
+
+    <meta property="og:site_name" content="Scorecard Diplomacy"/>
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ url }}" />
+    <meta property="og:image" content="{{ siteurl }}/theme/scorecard_diplomacy_og.jpg" />
+    <meta property="og:description" content="{{ description }}" />
+{%- endmacro %}
+
+{% macro meta_description(description) -%}
+    <meta name="description" content="{{ description }}">
+{%- endmacro %}
+
 {% macro github_css() -%}   
     <style type="text/css">
         /* The most recent version of Bootstrap does wonky things with heights
