@@ -5,13 +5,13 @@ Slug: author
 
 <div class="row">
 
-<div class="col-sm-3 fake-space-above">
+<div class="col-xs-6 col-xs-offset-3 col-sm-3 col-sm-offset-0 fake-space-above">
 
 ![Judith Kelley](/files/images/judith_kelley_300.jpg)
 
 </div>
 
-<div class="col-sm-9">
+<div class="col-xs-12 col-sm-9">
 
 # About Judith Kelley
 

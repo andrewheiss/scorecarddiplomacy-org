@@ -5,7 +5,7 @@ Slug: contents
 
 <div class="row">
 
-<div class="col-sm-3 fake-space-above">
+<div class="col-xs-6 col-xs-offset-3 col-sm-3 col-sm-offset-0 fake-space-above">
 
 <img src="/files/images/kelley_coppedge_2016.jpg" class="img-responsive">
 
@@ -13,7 +13,7 @@ Slug: contents
 
 </div>
 
-<div class="col-sm-9">
+<div class="col-xs-12 col-sm-9">
 
 # Table of contents
 
