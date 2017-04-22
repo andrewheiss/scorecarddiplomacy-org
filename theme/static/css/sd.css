@@ -87,6 +87,20 @@ fix that. */
 .navbar-default .navbar-toggle:focus {
     background-color: #F09D72;
 }
+
+/* Because there are so many links in the navbar, it spills on to two rows on
+ screens between 768 and 992 pixels. This shrinks the side padding on the links
+ and shrinks the site title.*/
+@media screen and (max-width: 992px) and (min-width: 768px) {
+    .nav > li > a {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .navbar-brand {
+        font-size: 0.95em;
+    }
+}
 /* End navbar stuff */
 
 
