@@ -8,12 +8,9 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://www.scorecarddiplomacy.org'
+SITEURL = 'https://www.scorecarddiplomacy.org'
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+# GOOGLE_ANALYTICS = ""
