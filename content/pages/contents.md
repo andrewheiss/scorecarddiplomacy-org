@@ -17,9 +17,24 @@ Slug: contents
 
 # Table of contents
 
-<p><a href="https://books.google.com/books?id=bvKkDgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false" class="btn btn-primary" target="_blank">
+<p><a href="https://books.google.com/books?id=bvKkDgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false" class="btn btn-primary btn-lg" target="_blank">
 <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span>&nbsp;
 Preview the book
+</a></p>
+
+<p class="buttons"><a href="https://www.amazon.com/Scorecard-Diplomacy-Influence-Reputation-Behavior/dp/131664913X/" target="_blank" class="btn btn-primary btn-sm">
+<span class="glyphicon glyphicon-book" aria-hidden="true"></span>&nbsp;
+Amazon paperback
+</a> &nbsp;
+
+<a href="https://www.amazon.com/Scorecard-Diplomacy-Influence-Reputation-Behavior-ebook/dp/B06XTTTD6R/" target="_blank" class="btn btn-primary btn-sm">
+<span class="glyphicon glyphicon-phone" aria-hidden="true"></span>&nbsp;
+Amazon Kindle
+</a> &nbsp;
+
+<a href="http://www.cambridge.org/us/academic/subjects/politics-international-relations/international-relations-and-international-organisations/scorecard-diplomacy-grading-states-influence-their-reputation-and-behavior" target="_blank" class="btn btn-primary btn-sm">
+<span class="glyphicon glyphicon-book" aria-hidden="true"></span>&nbsp;
+Cambridge paperback
 </a></p>
 
 &nbsp;
