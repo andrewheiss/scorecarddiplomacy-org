@@ -31,7 +31,8 @@ PATH = 'content'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 
-STATIC_PATHS = ['.htaccess', 'favicon.ico', 'robots.txt', 'files']
+STATIC_PATHS = ['.htaccess', 'favicon.ico', 'robots.txt', 'files',
+                'googlee5d783d34e81df8c.html']
 READERS = {'html': None}  # Don't parse HTML files
 
 # No feeds
