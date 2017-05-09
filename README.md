@@ -1,6 +1,6 @@
 # scorecarddiplomacy.org
 
-This repository contains the code for generating [scorecarddiplomacy.org](http://www.scorecarddiplomacy.org), the companion website to [Judith Kelley's *Scorecard Diplomacy: Grading States to Influence their Reputation and Behavior*](http://www.cambridge.org/us/academic/subjects/politics-international-relations/international-relations-and-international-organisations/scorecard-diplomacy-grading-states-influence-their-reputation-and-behavior?format=PB).
+This repository contains the code for generating [scorecarddiplomacy.org](https://www.scorecarddiplomacy.org), the companion website to [Judith Kelley's *Scorecard Diplomacy: Grading States to Influence their Reputation and Behavior*](https://www.scorecarddiplomacy.org).
 
 ## Pelican
 
