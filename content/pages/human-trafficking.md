@@ -104,6 +104,80 @@ In sum, it’s probably easier to generate moral outrage about human trafficking
 
 As the previous chapter noted, the way a country views an issue and the extent to which it prioritizes it will modify its concern. Chapter 7 will examine how some of these factors discussed above modify the influence of scorecard diplomacy. For now, having discussed the global regime against human trafficking and the nature of human trafficking as a policy problem and subject for influence by international actors, this chapter turns to explain how the US has implemented the first two steps of the scorecard diplomacy cycle.
 
+
+## References
+
+Ad Hoc Committee on the Elaboration of a Convention against Transnational Organized Crime. 1999. Revised Draft Protocol to Prevent, Suppress and Punish Trafficking in Women and Children, Supplementing the United Nations Convention against Transnational Organized Crime. New York: United Nations General Assembly.
+
+Bertone, Andrea Marie. 2008. “Human trafficking on the international and domestic agendas: Examining the role of transnational advocacy networks between Thailand and United States.” Dissertation. Edited by College Park University of Maryland.
+
+Butcher, Kate. 2003. “Confusion between prostitution and sex trafficking.” *The Lancet* 361 (9373): 1983.
+
+Chuang, Janie. 2005. “The United States as global sheriff: Using unilateral sanctions to combat human trafficking.” *Michigan Journal of International Law* 27: 437–437.
+
+———. 2012. “The use of indicators to measure government responses to human trafficking.” In *Governance by Indicators: Global Power through Classification and Rankings*, edited by Kevin Davis, Angelina Fisher, Benedict Kingsbury, and Sally Engle Merry, 317–344. Oxford University Press.
+
+———. 2013. “Exploitation creep and the unmaking of human trafficking law.” Unpublished paper, American University, Washington, DC.
+
+———. 2015. “Exploitation creep and the unmaking of human trafficking law.” *The American Journal of International Law* 108 (4): 609–649.
+
+Clinton, William J. 1998. Memorandum for the Secretary of State, the Attorney General, the Administrator of the Agency for International Development, the Director of the United States Information Agency, Subject: Steps to Combat Violence Against Women and Trafficking in Women and Girls.
+
+DeStefano, Anthony. 2007. *The War on Human Trafficking: US Policy Assessed*. Rutgers University Press.
+
+Doezema, Jo. 2002. “Who gets to choose? Coercion, consent, and the UN Trafficking Protocol.” *Gender & Development* 10 (1): 20–27.
+
+Efrat, Asif. 2012. *Governing Guns, Preventing Plunder: International Cooperation against Illicit Trade*. Oxford University Press.
+
+Foester, Amy. 2009. “Contested bodies.” *International Feminist Journal of Politics & Society* 11 (2): 151–173.
+
+Fredette, Kalen. 2009. “Revisiting the UN Protocol on Human Trafficking: Striking balances for more effective legislation.” *Cardozo J. Int’l & Comp. L.* 17: 101.
+
+Gallagher, Anne, and Paul Holmes. 2008. “Developing an effective criminal justice response to human trafficking lessons from the front line.” *International Criminal Justice Review* 18 (3): 318–343.
+
+Gallagher, Anne. 2001. “Human rights and the new UN protocols on trafficking and migrant smuggling: A preliminary analysis.” *Human Rights Quarterly* 23 (4): 975–1004.
+
+———. 2014a. “The global slavery index is based on  awed data: Why does no one say so?” *Guardian*, November 28, 2014. Accessed December 21, 2016. <http://www.theguardian.com/global-development/poverty-matters/2014/nov/28/global-slavery-index-walk-free-human-trafficking-anne-gallagher>.
+
+Hyland, Kelly E. 2001. “The impact of the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children.” *Human Rights Brief* 8 (2): 12.
+
+International Labour Organization. 2012. *ILO Global Estimate of Forced Labour 2012: Results and Methodology*. Geneva.
+
+———. 2014. *Profits and Poverty: The Economics of Forced Labour*. Geneva.
+
+Kessler, Glenn. 2015. “Why you should be wary of statistics on ‘modern slavery’ and ‘trafficking’.” *Washington Post*, April 24, 2015. Accessed December 17, 2015. <http://www.washingtonpost.com/blogs/fact-checker/wp/2015/04/24/why-you-should-be-wary-of-statistics-on-modern-slavery-and-trafficking/>.
+
+Lerum, Kari, Kiesha McCurtis, Penelope Saunders, and Stéphanie Wahab. 2012. “Using human rights to hold the US accountable for its anti-sex trafficking agenda: The universal periodic review and new directions for US policy.” *Anti-Trafficking Review* 1: 80–103.
+
+Masenior, Nicole Franck, and Chris Beyrer. 2007. “The US anti-prostitution pledge: First Amendment challenges and public health priorities.” *PLoS Medicine* 4 (7): e207. doi: 10.1371/journal.pmed.0040207.
+
+Mertus, Julie, and Andrea Bertone. 2007. “Combating trafficking: International efforts and their ramifications.” In *Human Trafficking, Human Security, and the Balkans*, edited by Richard Friman and Simon Reich, 40–16. University of Pittsburgh Press.
+
+Oldfield, John R. 1998. *Popular Politics and British Anti-Slavery: The Mobilisation of Public Opinion Against the Slave Trade, 1787–1807*. Vol. 6. Psychology Press.
+
+Ollus, Natalia. 2008. The United Nations Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children: A Tool for Criminal Justice Personnel. *Resource Material Series* No. 62, 16–30. Accessed December 21, 2016. <http://www.unafei.or.jp/english/pdf/RS_No62/No62_07VE_Ollus2.pdf>.
+
+Protection Project. 2014. The Protection Project Review of the Trafficking in Persons Report.
+
+Richards, Kathy. 2004. “The trafficking of migrant workers: What are the links between labour trafficking and corruption?” *International Migration* 42 (5): 147–168.
+
+Sychov, Alyaksandr. 2009. “Human trafficking: A call for global action.” *Global Strategy Journal* 22 (14): 1–11.
+
+United Nations. 2000. United Nations Convention Against Transnational Organized Crime (with protocols). New York.
+
+UNODC. 2014. Global Report on Trafficking in Persons.
+
+US Congress. 2014. Effective Accountability: Tier Rankings in the Fight Against Human Trafficking. Hearing before the Subcommittee on Africa, Global Health, Global Human Rights, and International Organizations, April 29, 2014. Edited by the Committee on Foreign Affairs.
+
+US Department of State. 2015. Annual Report on Trafficking in Persons.
+
+Weitzer, Ronald. 2005. “The growing moral panic over prostitution and sex trafficking.” *The Criminologist* 30 (5): 1–5.
+
+Wyler, Liana, Alison Siskin, and Clare Ribando. 2009. Trafficking in Persons: U.S. Policy and Issues for Congress. Congressional Research Service.
+
+Wyler, Liana. 2013. Trafficking in Persons: International Dimensions and Foreign Policy Issues for Congress. Congressional Research Service.
+
+
 [^4]: International Labour Organization 2012.
 
 [^5]: UNODC 2014.
