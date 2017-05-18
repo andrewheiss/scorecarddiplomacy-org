@@ -82,24 +82,6 @@ the influence of scorecard diplomacy.
 
 ## References
 
-Alon, Gideon. 2002. “Report: 3,000 Women a Year Trapped in Sex Slave Industry.”
-In: Haaretz.
-
-———. 2006. “Human Traffickers to be Sentenced to 16-20 Years in Prison.”
-October 17, 2006. <http://www.haaretz.com/news/human-traffickers-to-be-
-sentenced-to-16-20-years-in-prison-1.201598> (January 5, 2016).
-
-Efrat, Asif. 2012. *Governing Guns, Preventing Plunder: International
-Cooperation against Illicit Trade*. Oxford.
-
-Gilbert, Nina. 2001. “Coalition MKs losing restraint.” In *Jerusalem Post*.
-
-Katzenstein, Peter J. 1996. *Cultural norms and national security: Police and
-military in postwar Japan*. Cambridge Univ Press.
-
-Onishi, Norimitsu. 2005. “Japan, easygoing till now, plans sex traffic
-crackdown.” In *New York Times*. New York.
-
 Wheaton, Elizabeth M, Edward J Schauer, and Thomas V Galli. 2010. Economics of
 human trafficking. *International Migration* 48 (4): 114-141.
 

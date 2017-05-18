@@ -249,6 +249,20 @@ suspended over the TIP issue. The embassy also benefitted from an active civil
 society and media and a strong official concern for the country’s international
 image.
 
+## References
+
+Alon, Gideon. 2002. “Report: 3,000 Women a Year Trapped in Sex Slave Industry.”
+In: Haaretz.
+
+———. 2006. “Human Traffickers to be Sentenced to 16-20 Years in Prison.”
+October 17, 2006. <http://www.haaretz.com/news/human-traffickers-to-be-
+sentenced-to-16-20-years-in-prison-1.201598> (January 5, 2016).
+
+Efrat, Asif. 2012. *Governing Guns, Preventing Plunder: International
+Cooperation against Illicit Trade*. Oxford.
+
+Gilbert, Nina. 2001. “Coalition MKs losing restraint.” In *Jerusalem Post*.
+
 
 [^193]: The Jerusalem Report, “VICTORIA’S, AND ISRAEL’S, UGLY SECRET”, March
     12, 2001, <http://www.lexisnexis.com/hottopics/lnacademic/>, <http://solargeneral.com/jeffs-archive/slavery/victorias-and-israels-ugly-secret/>
@@ -267,7 +281,7 @@ image.
 [^198]: 05TELAVIV1679
 
 [^199]: Protocol no. 14 of the Parliamentary Inquiry committee, cited in
-    Efrat 2012 204..
+    Efrat 2012 204.
 
 [^200]: Interviews with Galon, Gershuni and Schonmann by Asif Efrat and
     cited in Efrat 2012.

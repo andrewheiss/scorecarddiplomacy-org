@@ -228,6 +228,14 @@ contribute to human trafficking, after 2005 political constraints have
 prevented the TIP office from criticizing and rating Japan sufficiently low to
 garner effective action. This has been the biggest obstacle to change.
 
+## References
+
+Katzenstein, Peter J. 1996. *Cultural norms and national security: Police and
+military in postwar Japan*. Cambridge Univ Press.
+
+Onishi, Norimitsu. 2005. “Japan, easygoing till now, plans sex traffic
+crackdown.” In *New York Times*. New York.
+
 
 [^237]: Paul Capobianco, “Human Trafficking in Japan: Legislative
     Policy, Implications for Migration, and Cultural Relativism,” (MA
