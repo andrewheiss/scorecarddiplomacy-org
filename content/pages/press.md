@@ -10,6 +10,14 @@ Slug: press
 
 <table class="table">
     <tr>
+        <td><img src="/files/press/brookings.png" alt="Brookings Future Development" class="center-block"></td>
+        <td>
+            <strong><a href="https://www.brookings.edu/blog/future-development/2017/05/22/scorecard-diplomacy-how-grades-drive-behavior-in-international-relations/">Scorecard diplomacy: How grades drive behavior in international relations</a></strong>
+            <br>
+            <em>Future Development</em>, Brookings Institution, May 22, 2017
+        </td>
+    </tr>
+    <tr>
         <td><img src="/files/press/policy_360.png" alt="Policy 360 podcast" class="center-block"></td>
         <td>
             <strong><a href="https://soundcloud.com/sanford-school-duke/ep-41-ranking-countries-can?in=sanford-school-duke/sets/policy-360-with-kelly-brownell">What WikiLeaks Reveals About Human Trafficking</a></strong>
