@@ -10,6 +10,14 @@ Slug: press
 
 <table class="table">
     <tr>
+        <td><img src="/files/press/washingtonpost.png" alt="Washington Post" class="center-block"></td>
+        <td>
+            <strong><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2017/07/03/the-state-department-just-released-its-trafficking-in-persons-report-heres-why-that-matters/">The State Department just released its human trafficking report. Here's why it matters.</a></strong>
+            <br>
+            <em>The Washington Post</em>, <em>The Monkey Cage</em>, July 3, 2017
+        </td>
+    </tr>
+    <tr>
         <td><img src="/files/press/brookings.png" alt="Brookings Future Development" class="center-block"></td>
         <td>
             <strong><a href="https://www.brookings.edu/blog/future-development/2017/05/22/scorecard-diplomacy-how-grades-drive-behavior-in-international-relations/">Scorecard diplomacy: How grades drive behavior in international relations</a></strong>
