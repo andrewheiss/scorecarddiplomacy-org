@@ -10,6 +10,22 @@ Slug: press
 
 <table class="table">
     <tr>
+        <td><img src="/files/press/the_hill.png" alt="The Hill" class="center-block"></td>
+        <td>
+            <strong><a href="http://thehill.com/blogs/pundits-blog/international/343298-us-law-to-combat-human-trafficking-earns-an-a-so-why-doesnt?rnd=1500745325">US law to combat human trafficking earns an A+, so why doesn’t everyone support it?</a></strong>
+            <br>
+            <em>The Hill</em>, July 23, 2017
+        </td>
+    </tr>
+    <tr>
+        <td><img src="/files/press/stars_stripes.png" alt="Stars and Stripes" class="center-block"></td>
+        <td>
+            <strong><a href="https://www.stripes.com/opinion/scorecards-force-low-ranked-nations-to-act-1.477386">Scorecards force low-ranked nations to act</a></strong>
+            <br>
+            <em>Stars and Stripes</em>, July 10, 2017
+        </td>
+    </tr>
+    <tr>
         <td><img src="/files/press/washingtonpost.png" alt="Washington Post" class="center-block"></td>
         <td>
             <strong><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2017/07/03/the-state-department-just-released-its-trafficking-in-persons-report-heres-why-that-matters/">The State Department just released its human trafficking report. Here's why it matters.</a></strong>
