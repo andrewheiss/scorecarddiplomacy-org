@@ -46,11 +46,11 @@ system” of migrant workers left many in the complete control of employers.
 
 Statistic                             | Value
 ------------------------------------- | --------------------
-Average GDP per capita                | $770.75
-Total aid                             | $6,564.27 million
-Aid from US                           | $1,273.57 million
-Average total aid as percent of GDP   | 6.33%
-Total TIP grants                      | $1,302,555
+Average GDP per capita                | $18,421.38
+Total aid                             | $2,721.23 million
+Aid from US                           | $44.86 million
+Average total aid as percent of GDP   | 0.574%
+Total TIP grants                      | $70,000
 
 <div class="well"><em>Table 13</em>: Key Omani statistics, averaged 2001–2013</div>
 
