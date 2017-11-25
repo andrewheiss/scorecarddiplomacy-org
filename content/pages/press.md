@@ -10,6 +10,14 @@ Slug: press
 
 <table class="table">
     <tr>
+        <td><img src="/files/press/ways_means.png" alt="Ways and Means" class="center-block"></td>
+        <td>
+            <strong><a href="https://soundcloud.com/user-352709534/robots-wikileaks-the-fight-against-human-trafficking">Robots, WikiLeaks &amp; The Fight Against Human Trafficking</a></strong>
+            <br>
+            <em>Ways &amp; Means Podcast</em>, November 14, 2017
+        </td>
+    </tr>
+    <tr>
         <td><img src="/files/press/the_hill.png" alt="The Hill" class="center-block"></td>
         <td>
             <strong><a href="http://thehill.com/blogs/pundits-blog/international/343298-us-law-to-combat-human-trafficking-earns-an-a-so-why-doesnt?rnd=1500745325">US law to combat human trafficking earns an A+, so why doesn’t everyone support it?</a></strong>
