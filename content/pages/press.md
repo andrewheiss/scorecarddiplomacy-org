@@ -10,6 +10,14 @@ Slug: press
 
 <table class="table">
     <tr>
+        <td><img src="/files/press/fp.png" alt="Foreign Policy" class="center-block"></td>
+        <td>
+            <strong><a href="http://foreignpolicy.com/2018/05/30/human-trafficking-report-ambassador-at-large-state-department-trump-pompeo-2/">The Fight Against Human Trafficking Is Too Important for Trump and Pompeo to Ignore</a></strong>
+            <br>
+            <em>Foreign Policy</em>, May 30, 2018
+        </td>
+    </tr>
+    <tr>
         <td><img src="/files/press/ways_means.png" alt="Ways and Means" class="center-block"></td>
         <td>
             <strong><a href="https://soundcloud.com/user-352709534/robots-wikileaks-the-fight-against-human-trafficking">Robots, WikiLeaks &amp; The Fight Against Human Trafficking</a></strong>
