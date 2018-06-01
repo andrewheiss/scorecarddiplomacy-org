@@ -101,16 +101,16 @@ PLUGINS = ['pelican-bootstrapify', 'pandoc_reader', 'extract_toc']
 
 PANDOC_ARGS = [
     '-t', 'html5',
-    '--smart',
     '--base-header-level=1',
     '--section-divs',  # wrap heading blocks with <section>
     '--table-of-contents',
-    '--template=theme/templates/pandoc-template-toc'
+    '--template=theme/templates/pandoc-template-toc',
+    '--quiet'
 ]
 
 PANDOC_EXTENSIONS = [
     '-markdown_in_html_blocks',
-    '+raw_html'
+    '+raw_html+smart'
 ]
 
 
